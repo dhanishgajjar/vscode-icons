@@ -45,11 +45,11 @@ All rights reserved etc to DC. I own nothing. Just inspired by the character's c
 
 ### Marvel Comics
 
-All rights reserved etc to DC. I own nothing. Just inspired by the character's costume colors :)
+All rights reserved etc to Marvel. I own nothing. Just inspired by the character's costume colors :)
 
 #### Spider-Man
 
-![Batman](./images/spiderman.png)
+![Spiderman](./images/spiderman.png)
 
 ----
 
