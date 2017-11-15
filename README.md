@@ -5,7 +5,9 @@ A fun little project for custom Microsoft® Visual Code Icons. All rights reserv
 
 ## How to Install
 
-**Mac OS:** Copy the `.icns` file you'd like to use. Find VS Code in your Applications folder, right click the icon and select `Get Info`. Click the icon in the top right corner so that a blue highlight appears around it. `⌘ + V` to past the new icon in. It may take a few restarts of VS Code for the icon to take. 
+**Mac OS:** Copy the `.icns` file you'd like to use. Find VS Code in your Applications folder, right click the icon and select `Get Info`. Click the icon in the top right corner so that a blue highlight appears around it. `⌘ + V` to past the new icon in. It may take a few restarts of VS Code for the icon to take.
+
+If for some reason that doesn't work, then dragging the `.icns` to the icon (in the top left) of the info pane, until you see the green plus sign and then dropping it works.
 
 ### [Xcode](https://developer.apple.com) by @apple
 
