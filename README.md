@@ -3,6 +3,10 @@ Visual Code App Icons for macOS (Beta)
 
 A fun little project for custom Microsoft® Visual Code Icons. All rights reserved to their respective owners of the themes I am using whether it is Marvel, DC or simple editor themes.
 
+## How to Install
+
+**Mac OS:** Copy the `.icns` file you'd like to use. Find VS Code in your Applications folder, right click the icon and select `Get Info`. Click the icon in the top right corner so that a blue highlight appears around it. `⌘ + V` to past the new icon in. It may take a few restarts of VS Code for the icon to take. 
+
 ### [Xcode](https://developer.apple.com) by @apple
 
 ![Cobalt 2](./images/xcode.png)
