@@ -1,4 +1,4 @@
-Visual Code App Icons for macOS (Beta)
+Visual Code App Icons
 ======================================
 
 A fun little project for custom Microsoft® Visual Code Icons. All rights reserved to their respective owners of the themes I am using whether it is Marvel, DC or simple editor themes.
