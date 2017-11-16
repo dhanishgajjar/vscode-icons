@@ -8,7 +8,7 @@ const writeFile = promisify(fs.writeFile);
 
 async function go() {
   console.log('Starting the Conversion...');
-  const files = await glob.readdirPromise('./images/*.png');
+  const files = await glob.readdirPromise('./linux/*.png');
   const promises = files.map(path => readFile(path));
   const data = await Promise.all(promises);
   const iconBuffers = await Promise.all(data.map(buf => toIco(buf)));
@@ -18,7 +18,7 @@ async function go() {
       .pop()
       .replace('.png', '.ico');
 
-    return writeFile(`./icons 👈🏼 ( YOU NEED THESE )/${filename}`, buf);
+    return writeFile(`./windows/${filename}`, buf);
   });
   await Promise.all(filePromises);
   console.log('Done! 👯🏻‍♂️');
