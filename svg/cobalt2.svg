@@ -32,7 +32,7 @@
   <g fill="none" fill-rule="evenodd">
     <g transform="rotate(-9.2 516.142 504.824)">
       <use fill="#000" filter="url(#cobalt2-a)" xlink:href="#cobalt2-b"/>
-      <use fill="#122738" xlink:href="#cobalt2-b"/>
+      <use fill="#102F42" xlink:href="#cobalt2-b"/>
       <use fill="url(#cobalt2-c)" xlink:href="#cobalt2-b"/>
     </g>
     <use fill="#FFC600" xlink:href="#cobalt2-d"/>
