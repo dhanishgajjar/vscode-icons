@@ -53,9 +53,8 @@ All rights reserved etc to DC. I own nothing. Just inspired by the character's c
 
 All rights reserved etc to Marvel. I own nothing. Just inspired by the character's costume colors :)
 
-#### Spider-Man
-
-![Spiderman](./linux/spiderman.png)
+#### Spider-Man, Daredevil &amp; Luke Cage - contributed by [@Rawnly](https://github.com/Rawnly)
+![Spiderman](./linux/spiderman.png) ![Daredevil](./linux/daredevil.png) ![Luke Cage](./linux/luke_cage.png)
 
 ----
 
