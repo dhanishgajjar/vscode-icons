@@ -9,7 +9,7 @@ A fun little project for custom Microsoft® Visual Code Icons. All rights reserv
 
 If for some reason that doesn't work, then dragging the `.icns` to the icon (in the top left) of the info pane, until you see the green plus sign and then dropping it works.
 
-### [Xcode](https://developer.apple.com) by @apple
+### [Xcode](https://developer.apple.com) by [@apple](https://github.com/apple)
 
 ![Cobalt 2](./thumbnails/xcode.png)
 
