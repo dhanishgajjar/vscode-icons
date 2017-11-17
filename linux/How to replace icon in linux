@@ -1,0 +1,11 @@
+How to replace icons in Linux Distros ?
+
+1. Clone/Downlaod the whole file. Extract it to any folder (basically /home/username/Downloads)
+2. Select the icon of your choice and rename the icon name to code.png ("batman.png" to "code.png")
+3. Now open teminal "Ctrl + Alt + t".
+  Type: sudo nautilus 
+  and hit enter.
+  Type your password. And it will than open file manager with root privilages.
+4. Select the icon you renamed to "code.png" and copy it to /usr/share/pixmaps/ and paste it.
+5. It will ask for replace confirmation. Allow it to replace the icon file.
+6. Enjoy, the new icon look.
