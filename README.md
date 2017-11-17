@@ -5,9 +5,25 @@ A fun little project for custom Microsoft® Visual Code Icons. All rights reserv
 
 ## How to Install
 
-**Mac OS:** Copy the `.icns` file you'd like to use. Find VS Code in your Applications folder, right click the icon and select `Get Info`. Click the icon in the top right corner so that a blue highlight appears around it. `⌘ + V` to past the new icon in. It may take a few restarts of VS Code for the icon to take.
+**Mac OS:**
+
+Easiest way to change the icons is by using https://freemacsoft.net/liteicon/. Just Drag and Drop the custom icon and hit `Apply Changes`.
+
+Copy the `.icns` file you'd like to use. Find VS Code in your Applications folder, right click the icon and select `Get Info`. Click the icon in the top right corner so that a blue highlight appears around it. `⌘ + V` to past the new icon in. It may take a few restarts of VS Code for the icon to take.
 
 If for some reason that doesn't work, then dragging the `.icns` to the icon (in the top left) of the info pane, until you see the green plus sign and then dropping it works.
+
+**Windows:**
+
+Right click on the shortcut App Icon, select properties and then shortcut tab and then `change icon` button.
+
+Alternatively there is https://wronex.deviantart.com/art/7CONIFIER-177688442
+
+**Linux:**
+
+I think this works, but not sure https://smdavis.us/projects/menulibre/
+
+---
 
 ### [Xcode](https://developer.apple.com) by [@apple](https://github.com/apple)
 
@@ -36,6 +52,10 @@ Dracula is my favourite theme. I use it in all editors and terminals. Even Slack
 I didn't have just one option for it, since the theme has many interesting colors. So, I made six different ones.
 
 ![Dracula](./linux/dracula.png) ![Dracula 1](./linux/dracula_one.png) ![Dracula 2](./linux/dracula_two.png) ![Dracula 3](./linux/dracula_three.png) ![Dracula 4](./linux/dracula_four.png) ![Dracula 5](./linux/dracula_five.png)
+
+### [Oceanic Next](https://github.com/voronianski/oceanic-next-color-scheme)
+
+![Dracula](./linux/oceanic-next.png)
 
 ### DC Comics
 
