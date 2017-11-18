@@ -25,7 +25,7 @@ I think this works, but not sure https://smdavis.us/projects/menulibre/
 
 ### Based on the Popular Themes
 
-<img src="svg/cobalt2.svg" alt="Cobalt 2" width="128"/> <img src="svg/levelup.svg" alt="LevelUp Tutorials" width="128"/> <img src="svg/dracula.svg" alt="Dracula" width="128"/> <img src="svg/dracula_one.svg" alt="Dracula Option One" width="128"/> <img src="svg/dracula_two.svg" alt="Dracula Option Two" width="128"/> <img src="svg/dracula_three.svg" alt="Dracula Option Three" width="128"/> <img src="svg/dracula_four.svg" alt="Dracula Option Four" width="128"/> <img src="svg/dracula_five.svg" alt="Dracula Option Five" width="128"/> <img src="svg/oceanic-next.svg" alt="Oceanic Next" width="128"/>
+<img src="svg/cobalt2.svg" alt="Cobalt 2" title="Cobalt2" width="128"/> <img src="svg/levelup.svg" alt="LevelUp Tutorials" width="128"/> <img src="svg/dracula.svg" alt="Dracula" width="128"/> <img src="svg/dracula_one.svg" alt="Dracula Option One" width="128"/> <img src="svg/dracula_two.svg" alt="Dracula Option Two" width="128"/> <img src="svg/dracula_three.svg" alt="Dracula Option Three" width="128"/> <img src="svg/dracula_four.svg" alt="Dracula Option Four" width="128"/> <img src="svg/dracula_five.svg" alt="Dracula Option Five" width="128"/> <img src="svg/oceanic-next.svg" alt="Oceanic Next" width="128"/>
 
 ### Based on Super Heroes
 
@@ -37,7 +37,7 @@ All rights reserved etc to DC and Marvel. I own nothing. Just inspired by the ch
 ### Based on TV Shows
 <img src="svg/stranger_things.svg" alt="Stranger Things" width="128"/>
 
-## Based on Popular Apps
+### Based on Popular Apps
 <img src="svg/xcode.svg" alt="Xcode" width="128"/>
 
 ----
