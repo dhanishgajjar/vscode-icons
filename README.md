@@ -17,8 +17,6 @@ If for some reason that doesn't work, then dragging the `.icns` to the icon (in 
 
 Right click on the shortcut App Icon, select properties and then shortcut tab and then `change icon` button.
 
-Alternatively there is https://wronex.deviantart.com/art/7CONIFIER-177688442
-
 **Linux:**
 
 I think this works, but not sure https://smdavis.us/projects/menulibre/
