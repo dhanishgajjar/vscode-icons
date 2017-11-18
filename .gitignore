@@ -1,6 +1,6 @@
 node_modules/
 .DS_Store
-make.js
-package-lock.json
-package.json
-vscode.sketch
+/make.js
+/package-lock.json
+/package.json
+/vscode.sketch
