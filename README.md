@@ -27,6 +27,10 @@ I think this works, but not sure https://smdavis.us/projects/menulibre/
 
 ![Cobalt 2](./linux/xcode.png)
 
+### [Sublime Text](https://www.sublimetext.com) by [Jon Skinner](https://twitter.com/sublimehq) & [@wbond](https://github.com/wbond)
+
+![Sublime Text](./linux/sublime-text.png)
+
 ### Stranger Things
 
 ![Stranger Things](./linux/stranger_things.png)
@@ -67,12 +71,40 @@ All rights reserved etc to DC. I own nothing. Just inspired by the character's c
 
 ![Batman](./linux/batman.png)
 
+#### Batgirl
+
+![Batgirl](./linux/batgirl.png)
+
 ### Marvel Comics
 
 All rights reserved etc to Marvel. I own nothing. Just inspired by the character's costume colors :)
 
 #### Spider-Man, Daredevil &amp; Luke Cage - contributed by [@Rawnly](https://github.com/Rawnly)
 ![Spiderman](./linux/spiderman.png) ![Daredevil](./linux/daredevil.png) ![Luke Cage](./linux/luke_cage.png)
+
+### Office 2016
+
+All right reserved to Microsoft. Colors taken from Office 2016 icons.
+
+![Office Brand](./linux/office-brand.png) ![Office Excel](./linux/office-excel.png) ![Office Powerpoint](./linux/office-powerpoint.png) ![Office Word](./linux/office-word.png) ![Office Outlook](./linux/office-outlook.png) ![Office OneNote](./linux/office-onenote.png)
+
+### Office Legacy
+
+All right reserved to Microsoft. Colors taken from legacy version of Office icons.
+
+![Office Legacy FrontPage](./linux/office-legacy-frontpage.png) ![Office Legacy Outlook](./linux/office-legacy-outlook.png)
+
+### Spotify
+
+All right reserved to Spotify. Colors designed by the talented [Tobias van Schneider](http://www.vanschneider.com/) ([@vanschneider](https://twitter.com/vanschneider)).
+
+![Spotify](./linux/spotify.png)
+
+### Neon
+
+Color idea by [@fnky](https://github.com/fnky).
+
+![Neon](./linux/neon.png)
 
 ----
 
