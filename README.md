@@ -23,56 +23,22 @@ I think this works, but not sure https://smdavis.us/projects/menulibre/
 
 ---
 
-### [Xcode](https://developer.apple.com) by [@apple](https://github.com/apple)
+### Based on the Popular Themes
 
-![Cobalt 2](./linux/xcode.png)
+<img src="svg/cobalt2.svg" alt="Cobalt 2" width="128"/> <img src="svg/levelup.svg" alt="LevelUp Tutorials" width="128"/> <img src="svg/dracula.svg" alt="Dracula" width="128"/> <img src="svg/dracula_one.svg" alt="Dracula Option One" width="128"/> <img src="svg/dracula_two.svg" alt="Dracula Option Two" width="128"/> <img src="svg/dracula_three.svg" alt="Dracula Option Three" width="128"/> <img src="svg/dracula_four.svg" alt="Dracula Option Four" width="128"/> <img src="svg/dracula_five.svg" alt="Dracula Option Five" width="128"/> <img src="svg/oceanic-next.svg" alt="Oceanic Next" width="128"/>
 
-### Stranger Things
+### Based on Super Heroes
 
-![Stranger Things](./linux/stranger_things.png)
+All rights reserved etc to DC and Marvel. I own nothing. Just inspired by the character's costume colors :)
 
-### [Cobalt2](https://github.com/wesbos/cobalt2-vscode) by [@wesbos](https://github.com/wesbos)
+<img src="svg/flash.svg" alt="Flash" width="128"/> <img src="svg/flash_alternative.svg" alt="Flash Alternative" width="128"/> <img src="svg/batman.svg" alt="Batman" width="128"/> <img src="svg/spiderman.svg" alt="Spider-Man" width="128"/> <img src="svg/daredevil.svg" alt="daredevil" width="128"/> <img src="svg/luke_cage.svg" alt="Luke Cage" width="128"/>
 
-Based on the Popular Theme by Wes Bos
 
-![Cobalt 2](./linux/cobalt2.png)
+### Based on TV Shows
+<img src="svg/stranger_things.svg" alt="Stranger Things" width="128"/>
 
-### [LevelUp](https://www.leveluptutorials.com) by [@stolinski](https://github.com/stolinski)
-
-Based on Scott's <https://www.leveluptutorials.com>
-
-![Cobalt 2](./linux/levelup.png)
-
-### [Dracula](https://draculatheme.com) by [@zenorocha](https://github.com/zenorocha)
-
-Dracula is my favourite theme. I use it in all editors and terminals. Even Slack :)
-
-I didn't have just one option for it, since the theme has many interesting colors. So, I made six different ones.
-
-![Dracula](./linux/dracula.png) ![Dracula 1](./linux/dracula_one.png) ![Dracula 2](./linux/dracula_two.png) ![Dracula 3](./linux/dracula_three.png) ![Dracula 4](./linux/dracula_four.png) ![Dracula 5](./linux/dracula_five.png)
-
-### [Oceanic Next](https://github.com/voronianski/oceanic-next-color-scheme)
-
-![Dracula](./linux/oceanic-next.png)
-
-### DC Comics
-
-All rights reserved etc to DC. I own nothing. Just inspired by the character's costume colors :)
-
-#### Flash
-
-![Flash](./linux/flash.png) ![Flash Alternative](./linux/flash_alternative.png)
-
-#### Batman
-
-![Batman](./linux/batman.png)
-
-### Marvel Comics
-
-All rights reserved etc to Marvel. I own nothing. Just inspired by the character's costume colors :)
-
-#### Spider-Man, Daredevil &amp; Luke Cage - contributed by [@Rawnly](https://github.com/Rawnly)
-![Spiderman](./linux/spiderman.png) ![Daredevil](./linux/daredevil.png) ![Luke Cage](./linux/luke_cage.png)
+## Based on Popular Apps
+<img src="svg/xcode.svg" alt="Xcode" width="128"/>
 
 ----
 
