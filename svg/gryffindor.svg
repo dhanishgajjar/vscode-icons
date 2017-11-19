@@ -1,136 +1,148 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1024" height="1024" viewBox="0 0 1024 1024">
-  <defs>
-    <linearGradient id="gryffindor-c" x1="0%" y1="0%" y2="100%">
-      <stop offset="0%" stop-color="#FFF" stop-opacity=".18"/>
-      <stop offset="48.762%" stop-color="gray" stop-opacity=".08"/>
-      <stop offset="100%" stop-opacity=".183"/>
-    </linearGradient>
-    <rect id="gryffindor-b" width="690" height="840" x="116.712" y="73.756" rx="22"/>
-    <filter id="gryffindor-a" width="106.1%" height="105%" x="-3.9%" y="-1.8%" filterUnits="objectBoundingBox">
-      <feOffset dx="-6" dy="6" in="SourceAlpha" result="shadowOffsetOuter1"/>
-      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="6"/>
-      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.12 0"/>
-    </filter>
-    <linearGradient id="gryffindor-e" x1="100%" x2="50%" y1="0%" y2="5.905%">
-      <stop offset="0%" stop-opacity=".3"/>
-      <stop offset="100%" stop-opacity="0"/>
-    </linearGradient>
-    <polygon id="gryffindor-d" points=".369 10.918 562.277 103.453 728.705 .844"/>
-    <polygon id="gryffindor-g" points=".369 10.918 562.277 103.453 728.705 .844"/>
-    <polygon id="gryffindor-h" points="462.299 119.847 554.599 4.77 564.37 4.74 472.221 119.695"/>
-    <polygon id="gryffindor-i" points="307.285 95.839 399.439 -19.153 409.193 -19.07 317.065 95.743"/>
-    <polygon id="gryffindor-j" points="310.299 119.847 402.599 4.77 412.37 4.74 320.221 119.695"/>
-    <polygon id="gryffindor-k" points="252.552 11.687 335.191 69.045 335.583 71.843 252.956 14.486"/>
-    <polygon id="gryffindor-l" points="157.285 95.839 249.439 -19.153 259.193 -19.07 167.065 95.743"/>
-    <polygon id="gryffindor-m" points="160.299 119.847 252.599 4.77 262.37 4.74 170.221 119.695"/>
-    <polygon id="gryffindor-n" points="102.552 11.687 185.191 69.045 185.583 71.843 102.956 14.486"/>
-    <polygon id="gryffindor-o" points="7.285 95.839 99.439 -19.153 109.193 -19.07 17.065 95.743"/>
-    <polygon id="gryffindor-p" points="10.299 119.847 102.599 4.77 112.37 4.74 20.221 119.695"/>
-    <polygon id="gryffindor-q" points="-47.448 11.687 35.191 69.045 35.583 71.843 -47.044 14.486"/>
-    <polygon id="gryffindor-r" points="459.285 95.839 551.439 -19.153 561.193 -19.07 469.065 95.743"/>
-    <polygon id="gryffindor-s" points="404.552 11.687 487.191 69.045 487.583 71.843 404.956 14.486"/>
-    <polygon id="gryffindor-t" points=".82 .889 188.232 45.332 280.65 609.856 114.531 711.908"/>
-    <path id="gryffindor-v" d="M537.951034,254.221039 L598.4682,644.286226 L598.4682,644.286226 C598.806888,646.469249 600.851137,647.964377 603.03416,647.625689 C603.590075,647.539441 604.121545,647.3369 604.593863,647.031293 L689.428752,592.140032 L689.428752,592.140032 C690.756966,591.28063 691.453886,589.71916 691.206651,588.156598 L642.036928,277.396418 L642.036928,277.396418 C641.787001,275.816841 640.620253,274.537936 639.070181,274.144485 L542.887849,249.730738 L542.887849,249.730738 C540.746612,249.187233 538.570198,250.48245 538.026692,252.623687 C537.894212,253.145618 537.868478,253.688924 537.951034,254.221039 Z"/>
-    <linearGradient id="gryffindor-x" x1="5.234%" x2="50%" y1="3.683%" y2="50%">
-      <stop offset="0%" stop-opacity=".09"/>
-      <stop offset="100%" stop-opacity="0"/>
-    </linearGradient>
-    <path id="gryffindor-w" d="M689.272893,592.268066 L599.84563,650.275606 L599.84563,650.275606 C598.457165,651.176242 596.657438,651.128814 595.318336,650.156297 L253.392874,401.834522 L253.392874,401.834522 C251.60539,400.536371 251.208708,398.034969 252.50686,396.247486 C252.844821,395.782131 253.27916,395.395128 253.78026,395.112866 L284.671952,377.712009 L284.671952,377.712009 C285.84794,377.049592 287.278689,377.02491 288.476825,377.646371 L688.937859,585.361463 L688.937859,585.361463 C690.898895,586.378633 691.66405,588.792945 690.646881,590.753981 C690.327782,591.369182 689.85432,591.890921 689.272893,592.268066 Z"/>
-    <path id="gryffindor-z" d="M640.847947,280.869329 L324.476633,602.327305 L324.476633,602.327305 C323.604783,603.213173 322.370665,603.643413 321.137043,603.491558 L285.190525,599.066672 L285.190525,599.066672 C282.997935,598.796772 281.439287,596.80053 281.709187,594.60794 C281.794558,593.914411 282.060117,593.255345 282.479422,592.696369 L538.615386,251.241288 L538.615386,251.241288 C539.584259,249.949683 541.234657,249.36722 542.799605,249.764583 L638.981474,274.186575 L638.981474,274.186575 C641.122667,274.730255 642.417707,276.906775 641.874027,279.047968 C641.6995,279.73531 641.34538,280.363898 640.847947,280.869329 Z"/>
-    <filter id="gryffindor-y" width="118.3%" height="118.7%" x="-9.2%" y="-5.9%" filterUnits="objectBoundingBox">
-      <feOffset dy="12" in="SourceAlpha" result="shadowOffsetOuter1"/>
-      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="9"/>
-      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0"/>
-    </filter>
-  </defs>
-  <g fill="none" fill-rule="evenodd">
-    <g transform="rotate(-9.2 461.712 493.756)">
-      <use fill="#000" filter="url(#gryffindor-a)" xlink:href="#gryffindor-b"/>
-      <use fill="#010101" xlink:href="#gryffindor-b"/>
-      <use fill="url(#gryffindor-c)" xlink:href="#gryffindor-b"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1024px" height="1024px" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>gryffindor</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="0%" x2="100%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" stop-opacity="0.18" offset="0%"></stop>
+            <stop stop-color="#808080" stop-opacity="0.08" offset="48.7623565%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.182801178" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-2" x="116.71211" y="73.7562411" width="690" height="840" rx="22"></rect>
+        <filter x="-3.9%" y="-1.8%" width="106.1%" height="105.0%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="-6" dy="6" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="6" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.12 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="100%" y1="0%" x2="50%" y2="5.90452261%" id="linearGradient-4">
+            <stop stop-color="#000000" stop-opacity="0.3" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <polygon id="path-5" points="0.369140625 10.9179688 562.277344 103.453125 728.705078 0.84375"></polygon>
+        <polygon id="path-7" points="0.369140625 10.9179688 562.277344 103.453125 728.705078 0.84375"></polygon>
+        <polygon id="path-8" points="462.299359 119.847255 554.599197 4.7700016 564.369634 4.73965412 472.221054 119.694681"></polygon>
+        <polygon id="path-9" points="307.285079 95.8390272 399.439117 -19.1527453 409.192704 -19.0696371 317.065268 95.7430226"></polygon>
+        <polygon id="path-10" points="310.299359 119.847255 402.599197 4.7700016 412.369634 4.73965412 320.221054 119.694681"></polygon>
+        <polygon id="path-11" points="252.552289 11.6872775 335.19058 69.0454188 335.583441 71.8433313 252.956273 14.4861261"></polygon>
+        <polygon id="path-12" points="157.285079 95.8390272 249.439117 -19.1527453 259.192704 -19.0696371 167.065268 95.7430226"></polygon>
+        <polygon id="path-13" points="160.299359 119.847255 252.599197 4.7700016 262.369634 4.73965412 170.221054 119.694681"></polygon>
+        <polygon id="path-14" points="102.552289 11.6872775 185.19058 69.0454188 185.583441 71.8433313 102.956273 14.4861261"></polygon>
+        <polygon id="path-15" points="7.28507904 95.8390272 99.4391169 -19.1527453 109.192704 -19.0696371 17.0652682 95.7430226"></polygon>
+        <polygon id="path-16" points="10.299359 119.847255 102.599197 4.7700016 112.369634 4.73965412 20.221054 119.694681"></polygon>
+        <polygon id="path-17" points="-47.4477113 11.6872775 35.1905797 69.0454188 35.5834407 71.8433313 -47.043727 14.4861261"></polygon>
+        <polygon id="path-18" points="459.285079 95.8390272 551.439117 -19.1527453 561.192704 -19.0696371 469.065268 95.7430226"></polygon>
+        <polygon id="path-19" points="404.552289 11.6872775 487.19058 69.0454188 487.583441 71.8433313 404.956273 14.4861261"></polygon>
+        <polygon id="path-20" points="0.8203125 0.888671875 188.232422 45.3320312 280.650146 609.855835 114.53125 711.908203"></polygon>
+        <path d="M537.951034,254.221039 L598.4682,644.286226 L598.4682,644.286226 C598.806888,646.469249 600.851137,647.964377 603.03416,647.625689 C603.590075,647.539441 604.121545,647.3369 604.593863,647.031293 L689.428752,592.140032 L689.428752,592.140032 C690.756966,591.28063 691.453886,589.71916 691.206651,588.156598 L642.036928,277.396418 L642.036928,277.396418 C641.787001,275.816841 640.620253,274.537936 639.070181,274.144485 L542.887849,249.730738 L542.887849,249.730738 C540.746612,249.187233 538.570198,250.48245 538.026692,252.623687 C537.894212,253.145618 537.868478,253.688924 537.951034,254.221039 Z" id="path-22"></path>
+        <linearGradient x1="5.23386356%" y1="3.68263437%" x2="50%" y2="50%" id="linearGradient-23">
+            <stop stop-color="#000000" stop-opacity="0.09" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <path d="M689.272893,592.268066 L599.84563,650.275606 L599.84563,650.275606 C598.457165,651.176242 596.657438,651.128814 595.318336,650.156297 L253.392874,401.834522 L253.392874,401.834522 C251.60539,400.536371 251.208708,398.034969 252.50686,396.247486 C252.844821,395.782131 253.27916,395.395128 253.78026,395.112866 L284.671952,377.712009 L284.671952,377.712009 C285.84794,377.049592 287.278689,377.02491 288.476825,377.646371 L688.937859,585.361463 L688.937859,585.361463 C690.898895,586.378633 691.66405,588.792945 690.646881,590.753981 C690.327782,591.369182 689.85432,591.890921 689.272893,592.268066 Z" id="path-24"></path>
+        <path d="M640.847947,280.869329 L324.476633,602.327305 L324.476633,602.327305 C323.604783,603.213173 322.370665,603.643413 321.137043,603.491558 L285.190525,599.066672 L285.190525,599.066672 C282.997935,598.796772 281.439287,596.80053 281.709187,594.60794 C281.794558,593.914411 282.060117,593.255345 282.479422,592.696369 L538.615386,251.241288 L538.615386,251.241288 C539.584259,249.949683 541.234657,249.36722 542.799605,249.764583 L638.981474,274.186575 L638.981474,274.186575 C641.122667,274.730255 642.417707,276.906775 641.874027,279.047968 C641.6995,279.73531 641.34538,280.363898 640.847947,280.869329 Z" id="path-25"></path>
+        <filter x="-9.2%" y="-5.9%" width="118.3%" height="118.7%" filterUnits="objectBoundingBox" id="filter-26">
+            <feOffset dx="0" dy="12" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="9" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="gryffindor">
+            <g id="Rectangle" transform="translate(461.712110, 493.756241) rotate(-9.200000) translate(-461.712110, -493.756241) ">
+                <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                <use fill="#010101" fill-rule="evenodd" xlink:href="#path-2"></use>
+                <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+            </g>
+            <g id="bottom" transform="translate(259.000000, 727.000000)">
+                <mask id="mask-6" fill="white">
+                    <use xlink:href="#path-5"></use>
+                </mask>
+                <g id="Mask">
+                    <use fill="#460507" xlink:href="#path-5"></use>
+                    <use fill="url(#linearGradient-4)" xlink:href="#path-5"></use>
+                </g>
+                <g id="Mask-Copy" mask="url(#mask-6)">
+                    <use fill="#460507" xlink:href="#path-7"></use>
+                    <use fill="url(#linearGradient-4)" xlink:href="#path-7"></use>
+                </g>
+                <g id="Path-8-Copy-10" mask="url(#mask-6)">
+                    <use fill="#EFBB1A" xlink:href="#path-8"></use>
+                    <use fill="url(#linearGradient-4)" xlink:href="#path-8"></use>
+                </g>
+                <g id="Path-8-Copy-14" mask="url(#mask-6)">
+                    <use fill="#EFBB1A" xlink:href="#path-9"></use>
+                    <use fill="url(#linearGradient-4)" xlink:href="#path-9"></use>
+                </g>
+                <g id="Path-8-Copy-13" mask="url(#mask-6)">
+                    <use fill="#EFBB1A" xlink:href="#path-10"></use>
+                    <use fill="url(#linearGradient-4)" xlink:href="#path-10"></use>
+                </g>
+                <g id="Path-8-Copy-12" mask="url(#mask-6)" transform="translate(294.067865, 41.765304) scale(-1, -1) rotate(-266.000000) translate(-294.067865, -41.765304) ">
+                    <use fill="#EFBB1A" xlink:href="#path-11"></use>
+                    <use fill="url(#linearGradient-4)" xlink:href="#path-11"></use>
+                </g>
+                <g id="Path-8-Copy-17" mask="url(#mask-6)">
+                    <use fill="#EFBB1A" xlink:href="#path-12"></use>
+                    <use fill="url(#linearGradient-4)" xlink:href="#path-12"></use>
+                </g>
+                <g id="Path-8-Copy-16" mask="url(#mask-6)">
+                    <use fill="#EFBB1A" xlink:href="#path-13"></use>
+                    <use fill="url(#linearGradient-4)" xlink:href="#path-13"></use>
+                </g>
+                <g id="Path-8-Copy-15" mask="url(#mask-6)" transform="translate(144.067865, 41.765304) scale(-1, -1) rotate(-266.000000) translate(-144.067865, -41.765304) ">
+                    <use fill="#EFBB1A" xlink:href="#path-14"></use>
+                    <use fill="url(#linearGradient-4)" xlink:href="#path-14"></use>
+                </g>
+                <g id="Path-8-Copy-20" mask="url(#mask-6)">
+                    <use fill="#EFBB1A" xlink:href="#path-15"></use>
+                    <use fill="url(#linearGradient-4)" xlink:href="#path-15"></use>
+                </g>
+                <g id="Path-8-Copy-19" mask="url(#mask-6)">
+                    <use fill="#EFBB1A" xlink:href="#path-16"></use>
+                    <use fill="url(#linearGradient-4)" xlink:href="#path-16"></use>
+                </g>
+                <g id="Path-8-Copy-18" mask="url(#mask-6)" transform="translate(-5.932135, 41.765304) scale(-1, -1) rotate(-266.000000) translate(5.932135, -41.765304) ">
+                    <use fill="#EFBB1A" xlink:href="#path-17"></use>
+                    <use fill="url(#linearGradient-4)" xlink:href="#path-17"></use>
+                </g>
+                <g id="Path-8-Copy-9" mask="url(#mask-6)">
+                    <use fill="#EFBB1A" xlink:href="#path-18"></use>
+                    <use fill="url(#linearGradient-4)" xlink:href="#path-18"></use>
+                </g>
+                <g id="Path-8-Copy-11" mask="url(#mask-6)" transform="translate(446.067865, 41.765304) scale(-1, -1) rotate(-266.000000) translate(-446.067865, -41.765304) ">
+                    <use fill="#EFBB1A" xlink:href="#path-19"></use>
+                    <use fill="url(#linearGradient-4)" xlink:href="#path-19"></use>
+                </g>
+            </g>
+            <g id="top" transform="translate(707.000000, 118.000000)">
+                <polygon id="Path-5" fill="#7B0909" points="0.8203125 0.888671875 188.232422 45.3320312 280.650146 609.855835 114.53125 711.908203"></polygon>
+                <mask id="mask-21" fill="white">
+                    <use xlink:href="#path-20"></use>
+                </mask>
+                <use id="Path-5-Copy" fill="#7B0909" xlink:href="#path-20"></use>
+                <polygon id="Path-8" fill="#EFBB1A" mask="url(#mask-21)" transform="translate(109.145682, 112.500000) scale(-1, -1) translate(-109.145682, -112.500000) " points="7.65676474 43 208.23133 166 210.634599 182 10.3421074 59"></polygon>
+                <polygon id="Path-8-Copy" fill="#EFBB1A" mask="url(#mask-21)" transform="translate(115.159500, 149.609036) scale(-1, -1) translate(-115.159500, -149.609036) " points="13.4966674 80 214.24039 203.218071 216.822333 219.218071 16.305636 96.2180713"></polygon>
+                <polygon id="Path-8-Copy-6" fill="#EFBB1A" mask="url(#mask-21)" transform="translate(128.170758, 230.501004) scale(-1, -1) translate(-128.170758, -230.501004) " points="27.2335387 166 228.152811 289.002008 229.107978 295.002008 28.2157497 172.002008"></polygon>
+                <polygon id="Path-8-Copy-3" fill="#EFBB1A" mask="url(#mask-21)" transform="translate(141.402360, 312.083441) scale(-1, -1) translate(-141.402360, -312.083441) " points="39.1701209 242.166882 240.848064 365.880158 243.634599 382 41.8554635 258.166882"></polygon>
+                <polygon id="Path-8-Copy-2" fill="#EFBB1A" mask="url(#mask-21)" transform="translate(147.196394, 349.447321) scale(-1, -1) translate(-147.196394, -349.447321) " points="44.5704544 279.676571 247.24039 403.218071 249.822333 419.218071 47.379423 295.894642"></polygon>
+                <polygon id="Path-8-Copy-7" fill="#EFBB1A" mask="url(#mask-21)" transform="translate(159.703171, 429.617283) scale(-1, -1) translate(-159.703171, -429.617283) " points="57.2983642 364.232558 261.152811 489.002008 262.107978 495.002008 58.2805752 370.234566"></polygon>
+                <polygon id="Path-8-Copy-4" fill="#EFBB1A" mask="url(#mask-21)" transform="translate(180.248701, 550.030218) scale(-1, -1) translate(-180.248701, -550.030218) " points="76.1173311 480.045609 281.798128 604.014826 284.380071 620.014826 78.9262997 496.263681"></polygon>
+                <polygon id="Path-8-Copy-8" fill="#EFBB1A" mask="url(#mask-21)" transform="translate(192.937220, 630.501004) scale(-1, -1) translate(-192.937220, -630.501004) " points="92 566 292.919273 689.002008 293.87444 695.002008 92.982211 572.002008"></polygon>
+                <polygon id="Path-8-Copy-5" fill="#EFBB1A" mask="url(#mask-21)" transform="translate(176.462940, 513.981830) scale(-1, -1) translate(-176.462940, -513.981830) " points="71.1405164 441.697675 279.382094 570.265984 281.785363 586.265984 73.8258591 457.697675"></polygon>
+            </g>
+            <g id="Path-2">
+                <use fill="#5B1013" xlink:href="#path-22"></use>
+                <use fill="#E0E0E0" style="mix-blend-mode: multiply;" xlink:href="#path-22"></use>
+            </g>
+            <g id="Path-4">
+                <use fill="#7B0909" xlink:href="#path-24"></use>
+                <use fill="url(#linearGradient-23)" xlink:href="#path-24"></use>
+            </g>
+            <g id="Path-3">
+                <use fill="black" fill-opacity="1" filter="url(#filter-26)" xlink:href="#path-25"></use>
+                <use fill="#7B0909" fill-rule="evenodd" xlink:href="#path-25"></use>
+            </g>
+        </g>
     </g>
-    <g transform="translate(259 727)">
-      <mask id="gryffindor-f" fill="#fff">
-        <use xlink:href="#gryffindor-d"/>
-      </mask>
-      <use fill="#460507" xlink:href="#gryffindor-d"/>
-      <use fill="url(#gryffindor-e)" xlink:href="#gryffindor-d"/>
-      <g mask="url(#gryffindor-f)">
-        <use fill="#460507" xlink:href="#gryffindor-g"/>
-        <use fill="url(#gryffindor-e)" xlink:href="#gryffindor-g"/>
-      </g>
-      <g mask="url(#gryffindor-f)">
-        <use fill="#EFBB1A" xlink:href="#gryffindor-h"/>
-        <use fill="url(#gryffindor-e)" xlink:href="#gryffindor-h"/>
-      </g>
-      <g mask="url(#gryffindor-f)">
-        <use fill="#EFBB1A" xlink:href="#gryffindor-i"/>
-        <use fill="url(#gryffindor-e)" xlink:href="#gryffindor-i"/>
-      </g>
-      <g mask="url(#gryffindor-f)">
-        <use fill="#EFBB1A" xlink:href="#gryffindor-j"/>
-        <use fill="url(#gryffindor-e)" xlink:href="#gryffindor-j"/>
-      </g>
-      <g mask="url(#gryffindor-f)" transform="rotate(-86 294.068 41.765)">
-        <use fill="#EFBB1A" xlink:href="#gryffindor-k"/>
-        <use fill="url(#gryffindor-e)" xlink:href="#gryffindor-k"/>
-      </g>
-      <g mask="url(#gryffindor-f)">
-        <use fill="#EFBB1A" xlink:href="#gryffindor-l"/>
-        <use fill="url(#gryffindor-e)" xlink:href="#gryffindor-l"/>
-      </g>
-      <g mask="url(#gryffindor-f)">
-        <use fill="#EFBB1A" xlink:href="#gryffindor-m"/>
-        <use fill="url(#gryffindor-e)" xlink:href="#gryffindor-m"/>
-      </g>
-      <g mask="url(#gryffindor-f)" transform="rotate(-86 144.068 41.765)">
-        <use fill="#EFBB1A" xlink:href="#gryffindor-n"/>
-        <use fill="url(#gryffindor-e)" xlink:href="#gryffindor-n"/>
-      </g>
-      <g mask="url(#gryffindor-f)">
-        <use fill="#EFBB1A" xlink:href="#gryffindor-o"/>
-        <use fill="url(#gryffindor-e)" xlink:href="#gryffindor-o"/>
-      </g>
-      <g mask="url(#gryffindor-f)">
-        <use fill="#EFBB1A" xlink:href="#gryffindor-p"/>
-        <use fill="url(#gryffindor-e)" xlink:href="#gryffindor-p"/>
-      </g>
-      <g mask="url(#gryffindor-f)" transform="rotate(-86 -5.932 41.765)">
-        <use fill="#EFBB1A" xlink:href="#gryffindor-q"/>
-        <use fill="url(#gryffindor-e)" xlink:href="#gryffindor-q"/>
-      </g>
-      <g mask="url(#gryffindor-f)">
-        <use fill="#EFBB1A" xlink:href="#gryffindor-r"/>
-        <use fill="url(#gryffindor-e)" xlink:href="#gryffindor-r"/>
-      </g>
-      <g mask="url(#gryffindor-f)" transform="rotate(-86 446.068 41.765)">
-        <use fill="#EFBB1A" xlink:href="#gryffindor-s"/>
-        <use fill="url(#gryffindor-e)" xlink:href="#gryffindor-s"/>
-      </g>
-    </g>
-    <g transform="translate(707 118)">
-      <polygon fill="#7B0909" points=".82 .889 188.232 45.332 280.65 609.856 114.531 711.908"/>
-      <mask id="gryffindor-u" fill="#fff">
-        <use xlink:href="#gryffindor-t"/>
-      </mask>
-      <use fill="#7B0909" xlink:href="#gryffindor-t"/>
-      <polygon fill="#EFBB1A" points="7.657 43 208.231 166 210.635 182 10.342 59" mask="url(#gryffindor-u)" transform="rotate(180 109.146 112.5)"/>
-      <polygon fill="#EFBB1A" points="13.497 80 214.24 203.218 216.822 219.218 16.306 96.218" mask="url(#gryffindor-u)" transform="rotate(180 115.16 149.609)"/>
-      <polygon fill="#EFBB1A" points="27.234 166 228.153 289.002 229.108 295.002 28.216 172.002" mask="url(#gryffindor-u)" transform="rotate(180 128.17 230.501)"/>
-      <polygon fill="#EFBB1A" points="39.17 242.167 240.848 365.88 243.635 382 41.855 258.167" mask="url(#gryffindor-u)" transform="rotate(180 141.402 312.083)"/>
-      <polygon fill="#EFBB1A" points="44.57 279.677 247.24 403.218 249.822 419.218 47.379 295.895" mask="url(#gryffindor-u)" transform="rotate(180 147.196 349.447)"/>
-      <polygon fill="#EFBB1A" points="57.298 364.233 261.153 489.002 262.108 495.002 58.281 370.235" mask="url(#gryffindor-u)" transform="rotate(180 159.703 429.617)"/>
-      <polygon fill="#EFBB1A" points="76.117 480.046 281.798 604.015 284.38 620.015 78.926 496.264" mask="url(#gryffindor-u)" transform="rotate(180 180.249 550.03)"/>
-      <polygon fill="#EFBB1A" points="92 566 292.919 689.002 293.874 695.002 92.982 572.002" mask="url(#gryffindor-u)" transform="rotate(180 192.937 630.501)"/>
-      <polygon fill="#EFBB1A" points="71.141 441.698 279.382 570.266 281.785 586.266 73.826 457.698" mask="url(#gryffindor-u)" transform="rotate(180 176.463 513.982)"/>
-    </g>
-    <use fill="#5B1013" xlink:href="#gryffindor-v"/>
-    <use fill="#E0E0E0" style="mix-blend-mode:multiply" xlink:href="#gryffindor-v"/>
-    <use fill="#7B0909" xlink:href="#gryffindor-w"/>
-    <use fill="url(#gryffindor-x)" xlink:href="#gryffindor-w"/>
-    <g>
-      <use fill="#000" filter="url(#gryffindor-y)" xlink:href="#gryffindor-z"/>
-      <use fill="#7B0909" xlink:href="#gryffindor-z"/>
-    </g>
-  </g>
 </svg>
