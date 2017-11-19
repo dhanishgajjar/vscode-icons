@@ -27,7 +27,14 @@ I think this works, but not sure https://smdavis.us/projects/menulibre/
 
 ## Based on the Popular Themes
 
+Hovering on them will reveal the names, and clicking them will take you to the theme pages.
+
 <a href="https://marketplace.visualstudio.com/items?itemName=wesbos.theme-cobalt2"><img src="svg/cobalt2.svg" alt="Cobalt 2" title="Cobalt2 by Wes Bos" width="128"/></a> <a href="https://www.leveluptutorials.com"><img src="svg/levelup.svg" title="LevelUp Tutorials" width="128"/></a> <a href="https://draculatheme.com/visual-studio/"><img src="svg/dracula.svg" title="Dracula" width="128"/></a> <a href="https://draculatheme.com/visual-studio/"><img src="svg/dracula_one.svg" title="Dracula Option One" width="128"/></a> <a href="https://draculatheme.com/visual-studio/"><img src="svg/dracula_two.svg" title="Dracula Option Two" width="128"/></a> <a href="https://draculatheme.com/visual-studio/"><img src="svg/dracula_three.svg" title="Dracula Option Three" width="128"/></a> <a href="https://draculatheme.com/visual-studio/"><img src="svg/dracula_four.svg" title="Dracula Option Four" width="128"/></a> <a href="https://draculatheme.com/visual-studio/"><img src="svg/dracula_five.svg" title="Dracula Option Five" width="128"/></a> <a href="https://labs.voronianski.com/oceanic-next-color-scheme/"><img src="svg/oceanic-next.svg" title="Oceanic Next" width="128"/></a>
+
+## Based on Harry Potter
+These icons were created by [@jessicavrooyen](https://github.com/jessicavrooyen)
+
+<img src="svg/gryffindor.svg" title="Gryffindor" width="128"/> <img src="svg/ravenclaw.svg" title="Ravenclaw" width="128"/> <img src="svg/huffelpuff.svg" title="Huffelpuff" width="128"/> <img src="svg/slytherin.svg" title="Slytherin" width="128"/>
 
 ## Based on Super Heroes
 
