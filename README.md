@@ -34,7 +34,7 @@ Hovering on them will reveal the names, and clicking them will take you to the t
 ## Based on Harry Potter
 These icons were created by [@jessicavrooyen](https://github.com/jessicavrooyen)
 
-<img src="linux/gryffindor.png" title="Gryffindor" width="128"/> <img src="linux/ravenclaw.png" title="Ravenclaw" width="128"/> <img src="linux/huffelpuff.png" title="Huffelpuff" width="128"/> <img src="linux/slytherin.png" title="Slytherin" width="128"/>
+<img src="svg/gryffindor.svg" title="Gryffindor" width="128"/> <img src="svg/ravenclaw.svg" title="Ravenclaw" width="128"/> <img src="svg/huffelpuff.svg" title="Huffelpuff" width="128"/> <img src="svg/slytherin.svg" title="Slytherin" width="128"/>
 
 ## Based on Super Heroes
 

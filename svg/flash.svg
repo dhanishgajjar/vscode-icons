@@ -1,50 +1,64 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1024" height="1024" viewBox="0 0 1024 1024">
-  <defs>
-    <linearGradient id="flash-c" x1="0%" y1="0%" y2="100%">
-      <stop offset="0%" stop-color="#FFF" stop-opacity=".18"/>
-      <stop offset="48.762%" stop-color="gray" stop-opacity=".08"/>
-      <stop offset="100%" stop-opacity=".183"/>
-    </linearGradient>
-    <rect id="flash-b" width="690" height="840" x="171.142" y="84.824" rx="22"/>
-    <filter id="flash-a" width="106.1%" height="105%" x="-3.9%" y="-1.8%" filterUnits="objectBoundingBox">
-      <feOffset dx="-6" dy="6" in="SourceAlpha" result="shadowOffsetOuter1"/>
-      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="6"/>
-      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.12 0"/>
-    </filter>
-    <path id="flash-d" d="M537.951034,254.221039 L598.4682,644.286226 L598.4682,644.286226 C598.806888,646.469249 600.851137,647.964377 603.03416,647.625689 C603.590075,647.539441 604.121545,647.3369 604.593863,647.031293 L689.428752,592.140032 L689.428752,592.140032 C690.756966,591.28063 691.453886,589.71916 691.206651,588.156598 L642.036928,277.396418 L642.036928,277.396418 C641.787001,275.816841 640.620253,274.537936 639.070181,274.144485 L542.887849,249.730738 L542.887849,249.730738 C540.746612,249.187233 538.570198,250.48245 538.026692,252.623687 C537.894212,253.145618 537.868478,253.688924 537.951034,254.221039 Z"/>
-    <linearGradient id="flash-f" x1="5.234%" x2="50%" y1="3.683%" y2="50%">
-      <stop offset="0%" stop-opacity=".09"/>
-      <stop offset="100%" stop-opacity="0"/>
-    </linearGradient>
-    <path id="flash-e" d="M689.272893,592.268066 L599.84563,650.275606 L599.84563,650.275606 C598.457165,651.176242 596.657438,651.128814 595.318336,650.156297 L253.392874,401.834522 L253.392874,401.834522 C251.60539,400.536371 251.208708,398.034969 252.50686,396.247486 C252.844821,395.782131 253.27916,395.395128 253.78026,395.112866 L284.671952,377.712009 L284.671952,377.712009 C285.84794,377.049592 287.278689,377.02491 288.476825,377.646371 L688.937859,585.361463 L688.937859,585.361463 C690.898895,586.378633 691.66405,588.792945 690.646881,590.753981 C690.327782,591.369182 689.85432,591.890921 689.272893,592.268066 Z"/>
-    <path id="flash-h" d="M640.847947,280.869329 L324.476633,602.327305 L324.476633,602.327305 C323.604783,603.213173 322.370665,603.643413 321.137043,603.491558 L285.190525,599.066672 L285.190525,599.066672 C282.997935,598.796772 281.439287,596.80053 281.709187,594.60794 C281.794558,593.914411 282.060117,593.255345 282.479422,592.696369 L538.615386,251.241288 L538.615386,251.241288 C539.584259,249.949683 541.234657,249.36722 542.799605,249.764583 L638.981474,274.186575 L638.981474,274.186575 C641.122667,274.730255 642.417707,276.906775 641.874027,279.047968 C641.6995,279.73531 641.34538,280.363898 640.847947,280.869329 Z"/>
-    <filter id="flash-g" width="118.3%" height="118.7%" x="-9.2%" y="-5.9%" filterUnits="objectBoundingBox">
-      <feOffset dy="12" in="SourceAlpha" result="shadowOffsetOuter1"/>
-      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="9"/>
-      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0"/>
-    </filter>
-    <linearGradient id="flash-j" x1="100%" x2="50%" y1="0%" y2="5.905%">
-      <stop offset="0%" stop-opacity=".3"/>
-      <stop offset="100%" stop-opacity="0"/>
-    </linearGradient>
-    <polygon id="flash-i" points="259.369 737.918 821.277 830.453 987.705 727.844"/>
-  </defs>
-  <g fill="none" fill-rule="evenodd">
-    <g transform="rotate(-9.2 516.142 504.824)">
-      <use fill="#000" filter="url(#flash-a)" xlink:href="#flash-b"/>
-      <use fill="#E61717" xlink:href="#flash-b"/>
-      <use fill="url(#flash-c)" xlink:href="#flash-b"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1024px" height="1024px" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>flash</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="0%" x2="100%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" stop-opacity="0.18" offset="0%"></stop>
+            <stop stop-color="#808080" stop-opacity="0.08" offset="48.7623565%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.182801178" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-2" x="68.1647497" y="53.7989054" width="744.886364" height="907.021277" rx="23.7553191"></rect>
+        <filter x="-2.4%" y="-1.3%" width="104.0%" height="103.3%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="-3" dy="3" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.12 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M464.151711,236.712251 L529.482558,657.898473 L529.482558,657.898473 C529.848189,660.255685 532.055489,661.870181 534.412701,661.50455 C535.01317,661.41141 535.587228,661.192617 536.097364,660.862466 L627.678747,601.592707 L627.678747,601.592707 C629.11266,600.664705 629.865022,598.978865 629.598153,597.291833 L576.517132,261.736516 L576.517132,261.736516 C576.247327,260.030929 574.987572,258.649954 573.313876,258.225029 L469.482667,231.863882 L469.482667,231.863882 C467.170618,231.276888 464.820479,232.675322 464.233485,234.987371 C464.090397,235.550965 464.062584,236.137648 464.151711,236.712251 Z" id="path-4"></path>
+        <linearGradient x1="5.23386356%" y1="3.68263437%" x2="50%" y2="50%" id="linearGradient-5">
+            <stop stop-color="#000000" stop-opacity="0.09" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <path d="M627.510916,601.73068 L530.970663,664.366129 L530.970663,664.366129 C529.471239,665.338957 527.527506,665.28773 526.081406,664.237271 L156.957803,396.102934 L156.957803,396.102934 C155.02785,394.701001 154.599806,391.999974 156.001739,390.070021 C156.366546,389.567815 156.835314,389.150139 157.376109,388.845449 L190.724601,370.056504 L190.724601,370.056504 C191.9946,369.340972 193.53984,369.314311 194.833766,369.985608 L627.149131,594.273441 L627.149131,594.273441 C629.266532,595.371961 630.092498,597.978981 628.993978,600.096381 C628.649489,600.760384 628.138453,601.323533 627.510916,601.73068 Z" id="path-6"></path>
+        <path d="M575.234009,265.486126 L233.696791,612.592348 L233.696791,612.592348 C232.755338,613.549153 231.422544,614.013857 230.090289,613.849824 L191.285709,609.072051 L191.285709,609.072051 C188.918187,608.780552 187.235237,606.624989 187.526736,604.257467 C187.618914,603.508802 187.905556,602.797331 188.358133,602.193865 L464.868442,233.49517 L464.868442,233.49517 C465.914621,232.100196 467.696978,231.471108 469.387011,231.900328 L573.2185,258.270575 L573.2185,258.270575 C575.530501,258.857758 576.928743,261.208011 576.34156,263.520012 C576.153129,264.261951 575.770899,264.940481 575.234009,265.486126 Z" id="path-7"></path>
+        <filter x="-9.0%" y="-5.8%" width="118.0%" height="118.3%" filterUnits="objectBoundingBox" id="filter-8">
+            <feOffset dx="0" dy="13" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="9.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="100%" y1="0%" x2="50%" y2="5.90452261%" id="linearGradient-9">
+            <stop stop-color="#000000" stop-opacity="0.3" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <polygon id="path-10" points="163.409868 759.001849 770.015314 858.92013 949.681618 748.123836"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="flash">
+            <g id="icon" transform="translate(37.000000, 0.000000)">
+                <g id="Rectangle" transform="translate(440.607931, 507.309544) rotate(-9.200000) translate(-440.607931, -507.309544) ">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                    <use fill="#E61717" fill-rule="evenodd" xlink:href="#path-2"></use>
+                    <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+                </g>
+                <g id="Path-2">
+                    <use fill="#FFC600" xlink:href="#path-4"></use>
+                    <use fill="#E0E0E0" style="mix-blend-mode: multiply;" xlink:href="#path-4"></use>
+                </g>
+                <g id="Path-4">
+                    <use fill="#FFC600" xlink:href="#path-6"></use>
+                    <use fill="url(#linearGradient-5)" xlink:href="#path-6"></use>
+                </g>
+                <g id="Path-3">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-8)" xlink:href="#path-7"></use>
+                    <use fill="#FFC600" fill-rule="evenodd" xlink:href="#path-7"></use>
+                </g>
+                <g id="Path-6">
+                    <use fill="#FFC600" xlink:href="#path-10"></use>
+                    <use fill="url(#linearGradient-9)" xlink:href="#path-10"></use>
+                </g>
+                <polygon id="Path-5" fill="#FFC600" points="647.533292 90.581917 849.853183 138.571289 949.622317 748.136886 770.289418 858.33173"></polygon>
+            </g>
+        </g>
     </g>
-    <use fill="#FFC600" xlink:href="#flash-d"/>
-    <use fill="#E0E0E0" style="mix-blend-mode:multiply" xlink:href="#flash-d"/>
-    <use fill="#FFC600" xlink:href="#flash-e"/>
-    <use fill="url(#flash-f)" xlink:href="#flash-e"/>
-    <use fill="#000" filter="url(#flash-g)" xlink:href="#flash-h"/>
-    <use fill="#FFC600" xlink:href="#flash-h"/>
-    <g>
-      <use fill="#FFC600" xlink:href="#flash-i"/>
-      <use fill="url(#flash-j)" xlink:href="#flash-i"/>
-    </g>
-    <polygon fill="#FFC600" points="707.82 118.889 895.232 163.332 987.65 727.856 821.531 829.908"/>
-  </g>
 </svg>

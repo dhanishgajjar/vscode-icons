@@ -1,52 +1,62 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1024" height="1024" viewBox="0 0 1024 1024">
-  <defs>
-    <linearGradient id="flash_alternative-c" x1="0%" y1="0%" y2="100%">
-      <stop offset="0%" stop-color="#FFF" stop-opacity=".18"/>
-      <stop offset="48.762%" stop-color="gray" stop-opacity=".08"/>
-      <stop offset="100%" stop-opacity=".183"/>
-    </linearGradient>
-    <rect id="flash_alternative-b" width="690" height="840" x="171.142" y="84.824" rx="22"/>
-    <filter id="flash_alternative-a" width="106.1%" height="105%" x="-3.9%" y="-1.8%" filterUnits="objectBoundingBox">
-      <feOffset dx="-6" dy="6" in="SourceAlpha" result="shadowOffsetOuter1"/>
-      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="6"/>
-      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.12 0"/>
-    </filter>
-    <radialGradient id="flash_alternative-f" cx="47.736%" cy="18.237%" r="85.62%" fx="47.736%" fy="18.237%">
-      <stop offset="0%" stop-color="#F9D67F"/>
-      <stop offset="100%" stop-color="#FAB200"/>
-    </radialGradient>
-    <circle id="flash_alternative-e" cx="520" cy="510" r="224"/>
-    <filter id="flash_alternative-d" width="127.7%" height="127.7%" x="-13.8%" y="-12.5%" filterUnits="objectBoundingBox">
-      <feMorphology in="SourceAlpha" operator="dilate" radius="32" result="shadowSpreadOuter1"/>
-      <feOffset dy="6" in="shadowSpreadOuter1" result="shadowOffsetOuter1"/>
-      <feMorphology in="SourceAlpha" radius="32" result="shadowInner"/>
-      <feOffset dy="6" in="shadowInner" result="shadowInner"/>
-      <feComposite in="shadowOffsetOuter1" in2="shadowInner" operator="out" result="shadowOffsetOuter1"/>
-      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="9"/>
-      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.123726223 0"/>
-    </filter>
-    <linearGradient id="flash_alternative-i" x1="3.668%" x2="97.755%" y1="100%" y2="1.549%">
-      <stop offset="0%" stop-color="#FFEC58"/>
-      <stop offset="100%" stop-color="#FFC000"/>
-    </linearGradient>
-    <polygon id="flash_alternative-h" points="713.226 251.459 413.122 489.338 495.158 489.338 377.498 607.68 449.161 607.68 313.226 773.45 614.297 536.223 532.12 536.223 650.596 416.818 576.466 416.818"/>
-    <filter id="flash_alternative-g" width="109.5%" height="107.3%" x="-4.8%" y="-3.3%" filterUnits="objectBoundingBox">
-      <feOffset dy="2" in="SourceAlpha" result="shadowOffsetOuter1"/>
-      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="6"/>
-      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.120838995 0"/>
-    </filter>
-  </defs>
-  <g fill="none" fill-rule="evenodd">
-    <g transform="rotate(-9.2 516.142 504.824)">
-      <use fill="#000" filter="url(#flash_alternative-a)" xlink:href="#flash_alternative-b"/>
-      <use fill="#E61717" xlink:href="#flash_alternative-b"/>
-      <use fill="url(#flash_alternative-c)" xlink:href="#flash_alternative-b"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1024px" height="1024px" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>flash_alternative</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="0%" x2="100%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" stop-opacity="0.18" offset="0%"></stop>
+            <stop stop-color="#808080" stop-opacity="0.08" offset="48.7623565%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.182801178" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-2" x="68.1717842" y="53.7989054" width="744.963235" height="907.021277" rx="23.7553191"></rect>
+        <filter x="-2.4%" y="-1.3%" width="104.0%" height="103.3%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="-3" dy="3" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.12 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <radialGradient cx="47.7364689%" cy="18.2373047%" fx="47.7364689%" fy="18.2373047%" r="85.6201172%" gradientTransform="translate(0.477365,0.182373),scale(1.000000,0.999879),rotate(90.000000),translate(-0.477365,-0.182373)" id="radialGradient-4">
+            <stop stop-color="#F9D67F" offset="0%"></stop>
+            <stop stop-color="#FAB200" offset="100%"></stop>
+        </radialGradient>
+        <ellipse id="path-5" cx="444.818627" cy="512.898936" rx="241.843137" ry="241.87234"></ellipse>
+        <filter x="-13.7%" y="-12.4%" width="127.3%" height="127.3%" filterUnits="objectBoundingBox" id="filter-6">
+            <feMorphology radius="34.5531915" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="6" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feMorphology radius="34.5531915" operator="erode" in="SourceAlpha" result="shadowInner"></feMorphology>
+            <feOffset dx="0" dy="6" in="shadowInner" result="shadowInner"></feOffset>
+            <feComposite in="shadowOffsetOuter1" in2="shadowInner" operator="out" result="shadowOffsetOuter1"></feComposite>
+            <feGaussianBlur stdDeviation="9.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.123726223 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="3.66815178%" y1="100%" x2="97.754788%" y2="1.54879271%" id="linearGradient-7">
+            <stop stop-color="#FFEC58" offset="0%"></stop>
+            <stop stop-color="#FFC000" offset="100%"></stop>
+        </linearGradient>
+        <polygon id="path-8" points="653.436162 233.729161 329.426566 490.588081 417.997877 490.588081 290.965817 618.373089 368.336683 618.373089 221.573416 797.369143 546.626682 541.213868 457.9046 541.213868 585.817667 412.281685 505.782041 412.281685"></polygon>
+        <filter x="-4.7%" y="-3.3%" width="109.5%" height="107.3%" filterUnits="objectBoundingBox" id="filter-9">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="6.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.120838995 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="flash_alternative">
+            <g id="icon" transform="translate(72.000000, 0.000000)">
+                <g id="Rectangle" transform="translate(440.653402, 507.309544) rotate(-9.200000) translate(-440.653402, -507.309544) ">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                    <use fill="#E61717" fill-rule="evenodd" xlink:href="#path-2"></use>
+                    <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+                </g>
+                <g id="Oval">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+                    <use stroke="url(#radialGradient-4)" stroke-width="69.106383" xlink:href="#path-5"></use>
+                </g>
+                <g id="Path-7" transform="translate(437.504789, 515.549152) rotate(-9.500000) translate(-437.504789, -515.549152) ">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-9)" xlink:href="#path-8"></use>
+                    <use fill="url(#linearGradient-7)" fill-rule="evenodd" xlink:href="#path-8"></use>
+                </g>
+            </g>
+        </g>
     </g>
-    <use fill="#000" filter="url(#flash_alternative-d)" xlink:href="#flash_alternative-e"/>
-    <use stroke="url(#flash_alternative-f)" stroke-width="64" xlink:href="#flash_alternative-e"/>
-    <g transform="rotate(-9.5 513.226 512.454)">
-      <use fill="#000" filter="url(#flash_alternative-g)" xlink:href="#flash_alternative-h"/>
-      <use fill="url(#flash_alternative-i)" xlink:href="#flash_alternative-h"/>
-    </g>
-  </g>
 </svg>
