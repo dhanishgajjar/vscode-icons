@@ -3,9 +3,17 @@ Visual Code App Icons
 
 A fun little project for custom Microsoft® Visual Code Icons. All rights reserved to their respective owners of the themes I am using whether it is Marvel, DC or simple editor themes.
 
-```
-I am not accepting any Pull Requests till I fix the automation script. Won't take longer 👍🏼
-```
+## How to Contribute
+
+ - Download the sample icon sketch file.
+ - Sample file has separate color layers, it makes it easy to for anyone to change colors.
+ - Change the colors and create your icon, without changing any dimensions.
+ - Select the artboard and export a `svg` file.
+ - Select the artboard again and export a `png` file, but @0.25x (256 x 256)
+ - Download the [Image2Icon](http://www.img2icnsapp.com) App
+ - Drop the svg as source and export a .ICNS for macOS
+ - If you can afford pay for in-app purchases, so you can also export to .ico. If not then find an alternative way to create a .ico file from a `svg`
+ - Send pull request for icon files only, **DO NOT** commit the sample sketch icon file
 
 ## How to Install
 
