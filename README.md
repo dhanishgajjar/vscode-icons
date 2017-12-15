@@ -60,6 +60,9 @@ All rights reserved etc to DC and Marvel. I own nothing. Just inspired by the ch
 
 <img src="svg/white-on-black.svg" title="White on Black" width="128"/> <img src="svg/black-on-white.svg" title="Black on White" width="128"/> <img src="svg/neon.svg" title="Neon" width="128"/>
 ----
+## Based on Holidays
+ 
+<img src="svg/new-year.svg" alt="New Year's Day" title="New Year's Day" width="128"/> <img src="svg/christmas.svg" alt="Christmas" title="Christmas" width="128"/> <img src="svg/chanukah.svg" alt="Chanukah" title="Chanukah" width="128"/> <img src="svg/kwanza.svg" alt="Kwanza" title="Kwanza" width="128"/> <img src="svg/valentines.svg" alt="Valentine's Day" title="Valentine's Day" width="128"/> <img src="svg/st-patricks.svg" alt="St. Patrick's Day" title="St. Patrick's Day" width="128"/> <img src="svg/easter.svg" alt="Easter" title="Easter" width="128"/> <img src="svg/independence-day.svg" alt="Independence Day" title="Independence Day" width="128"/> <img src="svg/halloween.svg" alt="Halloween" title="Halloween" width="128"/> <img src="svg/thanksgiving.svg" alt="Thanksgiving" title="Thanksgiving" width="128"/>
 
 ### Contributions
 
