@@ -34,7 +34,7 @@ All rights reserved etc to DC and Marvel. I own nothing. Just inspired by the ch
 
 ## Others
 
-<img src="svg/white-on-black.svg" title="White on Black" width="128"/> <img src="svg/black-on-white.svg" title="Black on White" width="128"/> <img src="svg/neon.svg" title="Neon" width="128"/>
+<img src="svg/white-on-black.svg" title="White on Black" width="128"/> <img src="svg/black-on-white.svg" title="Black on White" width="128"/> <img src="svg/neon.svg" title="Neon" width="128"/> <img src="svg/emo.svg" title="Emo" width="128"/>
 
 ---
 
