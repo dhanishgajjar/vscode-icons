@@ -1,4 +1,4 @@
-Visual Code App Icons
+Visual Studio Code App Icons
 ======================================
 
 A fun little project for custom [Microsoft® Visual Studio Code](http://code.visualstudio.com) Icons. All rights reserved to their respective owners of the themes I am using whether it is Marvel, DC or simple editor themes.
