@@ -1,11 +1,12 @@
 Visual Code App Icons
 ======================================
 
-A fun little project for custom Microsoft® Visual Code Icons. All rights reserved to their respective owners of the themes I am using whether it is Marvel, DC or simple editor themes.
+A fun little project for custom [Microsoft® Visual Studio Code](http://code.visualstudio.com) Icons. All rights reserved to their respective owners of the themes I am using whether it is Marvel, DC or simple editor themes.
 
 ---
 
 ## Based on Holidays
+Made by [@clarkio](https://github.com/clarkio)
 
 <img src="linux/new-year.png" alt="New Year's Day" title="New Year's Day" width="128"/> <img src="linux/christmas.png" alt="Christmas" title="Christmas" width="128"/> <img src="linux/chanukah.png" alt="Chanukah" title="Chanukah" width="128"/> <img src="linux/kwanza.png" alt="Kwanza" title="Kwanza" width="128"/> <img src="linux/valentines.png" alt="Valentine's Day" title="Valentine's Day" width="128"/> <img src="linux/st-patricks.png" alt="St. Patrick's Day" title="St. Patrick's Day" width="128"/> <img src="linux/easter.png" alt="Easter" title="Easter" width="128"/> <img src="linux/independence-day.png" alt="Independence Day" title="Independence Day" width="128"/> <img src="linux/halloween.png" alt="Halloween" title="Halloween" width="128"/> <img src="linux/thanksgiving.png" alt="Thanksgiving" title="Thanksgiving" width="128"/>
 
