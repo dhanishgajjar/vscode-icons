@@ -52,7 +52,7 @@ These icons were created by [@jessicavrooyen](https://github.com/jessicavrooyen)
  - Select the artboard and export a `svg` file.
  - Select the artboard again and export a `png` file, but @0.25x (256 x 256)
  - Download the [Image2Icon](http://www.img2icnsapp.com) App
- - Drop the linux as source and export a .ICNS for macOS
+ - Drop the `svg` as source and export a .ICNS for macOS
  - If you can afford pay for in-app purchases, so you can also export to .ico. If not then find an alternative way to create a .ico file from a `svg`
  - Send pull request for icon files only, **DO NOT** commit the sample sketch icon file
 
