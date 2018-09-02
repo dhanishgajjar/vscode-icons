@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1024" height="1024" viewBox="0 0 1024 1024">
+  <defs>
+    <linearGradient id="stranger-things-c" x1="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFF" stop-opacity=".18"/>
+      <stop offset="48.762%" stop-color="gray" stop-opacity=".08"/>
+      <stop offset="100%" stop-opacity=".183"/>
+    </linearGradient>
+    <rect id="stranger-things-b" width="744.886" height="907.021" x="68.165" y="53.799" rx="23.755"/>
+    <filter id="stranger-things-a" width="104%" height="103.3%" x="-2.4%" y="-1.3%" filterUnits="objectBoundingBox">
+      <feOffset dx="-3" dy="3" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="4.5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.12 0"/>
+    </filter>
+    <path id="stranger-things-e" d="M465.932542,248.193222 L527.666427,646.189925 C528.682268,652.739025 534.814865,657.224619 541.363966,656.208778 C543.032264,655.950005 544.627185,655.342125 546.044508,654.42486 L623.48489,604.306893 C627.468768,601.728601 629.559073,597.044788 628.817624,592.357665 L577.307933,266.735617 C576.558328,261.996942 573.058319,258.160147 568.408246,256.979565 L480.743671,234.722878 C474.320046,233.092018 467.790597,236.977322 466.159737,243.400947 C465.762193,244.966793 465.684917,246.596789 465.932542,248.193222 Z"/>
+    <filter id="stranger-things-d" width="153.9%" height="120.7%" x="-27%" y="-10.4%" filterUnits="objectBoundingBox">
+      <feOffset in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feMorphology in="SourceAlpha" radius="24" result="shadowInner"/>
+      <feOffset in="shadowInner" result="shadowInner"/>
+      <feComposite in="shadowOffsetOuter1" in2="shadowInner" operator="out" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="15"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 1   0 0 0 0 0.062243529   0 0 0 0 0.062243529  0 0 0 0.5 0"/>
+    </filter>
+    <path id="stranger-things-g" d="M616.439034,608.914133 L535.396708,661.494505 C531.230822,664.197338 525.8305,664.055011 521.812765,661.136496 L166.639041,403.135463 C161.277005,399.240437 160.087758,391.736106 163.982784,386.37407 C164.996336,384.978776 166.298727,383.818338 167.801231,382.971808 L187.104983,372.095841 C190.633452,370.107859 194.926633,370.033787 198.52158,371.898868 L615.433879,588.195497 C621.316707,591.247544 623.611508,598.490691 620.559461,604.373519 C619.60236,606.218333 618.182536,607.782946 616.439034,608.914133 Z"/>
+    <filter id="stranger-things-f" width="119%" height="130.5%" x="-9.5%" y="-15.2%" filterUnits="objectBoundingBox">
+      <feOffset in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feMorphology in="SourceAlpha" radius="24" result="shadowInner"/>
+      <feOffset in="shadowInner" result="shadowInner"/>
+      <feComposite in="shadowOffsetOuter1" in2="shadowInner" operator="out" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="15"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 1   0 0 0 0 0.062243529   0 0 0 0 0.062243529  0 0 0 0.5 0"/>
+    </filter>
+    <path id="stranger-things-i" d="M565.849205,275.023956 L236.352384,609.893454 C233.73672,612.551768 230.033786,613.842867 226.332348,613.387132 L204.449637,610.692846 C197.87189,609.882967 193.196109,603.894114 194.005987,597.316367 C194.26209,595.236331 195.058474,593.259634 196.31588,591.58301 L461.796109,237.591816 C464.702734,233.716125 469.654702,231.968314 474.350163,233.160828 L560.249466,254.976809 C566.672957,256.608193 570.557728,263.13796 568.926343,269.561452 C568.40282,271.622798 567.340861,273.507977 565.849205,275.023956 Z"/>
+    <filter id="stranger-things-h" width="123.1%" height="123.6%" x="-11.6%" y="-11.8%" filterUnits="objectBoundingBox">
+      <feOffset in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feMorphology in="SourceAlpha" radius="24" result="shadowInner"/>
+      <feOffset in="shadowInner" result="shadowInner"/>
+      <feComposite in="shadowOffsetOuter1" in2="shadowInner" operator="out" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="15"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 1   0 0 0 0 0.062243529   0 0 0 0 0.062243529  0 0 0 0.5 0"/>
+    </filter>
+    <path id="stranger-things-k" d="M163.409868,759.001849 L927.951657,748.424469 C930.062585,748.395264 932.033535,749.477597 933.141658,751.27452 C934.88101,754.095037 934.004551,757.791542 931.184034,759.530894 L771.925496,857.742162 C770.693714,858.501776 769.228888,858.790592 767.800959,858.555388 L163.409868,759.001849 Z M337.109424,770.256108 L758.646407,832.296875 C759.523848,832.426015 760.419326,832.25988 761.192051,831.82459 L857.200777,777.741192 C859.125536,776.656941 859.806903,774.217657 858.722652,772.292899 C858.013833,771.034605 856.681773,770.256108 855.237568,770.256108 L337.109424,770.256108 Z"/>
+    <filter id="stranger-things-j" width="111.7%" height="181.7%" x="-5.8%" y="-40.8%" filterUnits="objectBoundingBox">
+      <feOffset in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="15"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 1   0 0 0 0 0.062745098   0 0 0 0 0.062745098  0 0 0 0.5 0"/>
+    </filter>
+    <path id="stranger-things-m" d="M650.606573,103.286116 L827.745773,142.67612 C832.533348,143.740722 836.191219,147.611613 836.983412,152.451725 L934.140374,746.057571 C934.927117,750.86438 932.73026,755.669913 928.580339,758.219918 L771.395165,854.80563 C765.748568,858.2753 758.358375,856.510551 754.888706,850.863955 C754.065524,849.524296 753.513647,848.035919 753.264445,846.483433 L636.153457,116.90187 C635.103083,110.358219 639.556264,104.202045 646.099915,103.151672 C647.597136,102.911341 649.126341,102.956961 650.606573,103.286116 Z"/>
+    <filter id="stranger-things-l" width="130.2%" height="111.9%" x="-15.1%" y="-6%" filterUnits="objectBoundingBox">
+      <feOffset in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feMorphology in="SourceAlpha" radius="24" result="shadowInner"/>
+      <feOffset in="shadowInner" result="shadowInner"/>
+      <feComposite in="shadowOffsetOuter1" in2="shadowInner" operator="out" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="15"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 1   0 0 0 0 0.062745098   0 0 0 0 0.062745098  0 0 0 0.5 0"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd" transform="translate(37)">
+    <g transform="rotate(-9.2 440.608 507.31)">
+      <use fill="#000" filter="url(#stranger-things-a)" xlink:href="#stranger-things-b"/>
+      <use fill="#000" xlink:href="#stranger-things-b"/>
+      <use fill="url(#stranger-things-c)" xlink:href="#stranger-things-b"/>
+    </g>
+    <use fill="#000" filter="url(#stranger-things-d)" xlink:href="#stranger-things-e"/>
+    <path stroke="#E3452B" stroke-linejoin="square" stroke-width="24" d="M477.790739,246.353879 L539.524623,644.350581 L616.965005,594.232614 L565.455314,268.610566 L477.790739,246.353879 Z"/>
+    <use fill="#000" filter="url(#stranger-things-f)" xlink:href="#stranger-things-g"/>
+    <path stroke="#E3452B" stroke-linejoin="square" stroke-width="24" d="M609.907659,598.847299 L192.99536,382.55067 L173.691609,393.426638 L528.865333,651.427671 L609.907659,598.847299 Z"/>
+    <use fill="#000" filter="url(#stranger-things-h)" xlink:href="#stranger-things-i"/>
+    <path stroke="#E3452B" stroke-linejoin="square" stroke-width="24" d="M557.295583,266.607569 L471.396281,244.791588 L205.916052,598.782781 L227.798763,601.477068 L557.295583,266.607569 Z"/>
+    <use fill="#000" filter="url(#stranger-things-j)" xlink:href="#stranger-things-k"/>
+    <use fill="#E3452B" xlink:href="#stranger-things-k"/>
+    <use fill="#000" filter="url(#stranger-things-l)" xlink:href="#stranger-things-m"/>
+    <path stroke="#E3452B" stroke-linejoin="square" stroke-width="24" d="M648.001785,115 L765.112773,844.581563 L922.297947,747.995851 L825.140985,154.390004 L648.001785,115 Z"/>
+  </g>
+</svg>

@@ -34,6 +34,10 @@ These icons were created by [@jessicavrooyen](https://github.com/jessicavrooyen)
 
 <img src="linux/gryffindor.png" title="Gryffindor" width="128"/> <img src="linux/ravenclaw.png" title="Ravenclaw" width="128"/> <img src="linux/huffelpuff.png" title="Hufflepuff" width="128"/> <img src="linux/slytherin.png" title="Slytherin" width="128"/>
 
+## Based on TVShows and Movies
+
+<img src="linux/stranger-things.png" title="Stranger Things" width="128"/> <img src="linux/matrix.png" title="Matrix" width="128"/>
+
 ## Others
 
 <img src="linux/white-on-black.png" title="White on Black" width="128"/> <img src="linux/black-on-white.png" title="Black on White" width="128"/> <img src="linux/neon.png" title="Neon" width="128"/> <img src="linux/emo.png" title="Emo" width="128"/>
@@ -45,11 +49,11 @@ These icons were created by [@jessicavrooyen](https://github.com/jessicavrooyen)
  - Download the sample icon sketch file.
  - Sample file has separate color layers, it makes it easy to for anyone to change colors.
  - Change the colors and create your icon, without changing any dimensions.
- - Select the artboard and export a `linux` file.
+ - Select the artboard and export a `svg` file.
  - Select the artboard again and export a `png` file, but @0.25x (256 x 256)
  - Download the [Image2Icon](http://www.img2icnsapp.com) App
  - Drop the linux as source and export a .ICNS for macOS
- - If you can afford pay for in-app purchases, so you can also export to .ico. If not then find an alternative way to create a .ico file from a `linux`
+ - If you can afford pay for in-app purchases, so you can also export to .ico. If not then find an alternative way to create a .ico file from a `svg`
  - Send pull request for icon files only, **DO NOT** commit the sample sketch icon file
 
 ## How to Install
