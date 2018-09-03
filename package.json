@@ -1,6 +1,6 @@
 {
   "name": "vscode-icons",
-  "version": "1.0.0",
+  "version": "1.5.0",
   "description": "Visual Code App Icons",
   "main": "gulpfile.js",
   "scripts": {
