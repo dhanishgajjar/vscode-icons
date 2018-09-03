@@ -83,6 +83,8 @@ Batgirl, Sublime Text, Neon, Spotify, White on Black and Black on White by [@fnk
 Monokai Pro by [@legendofcolt](https://github.com/legendofcolt)
 
 ---
+#### Disclaimer for Setapp
+Icons inspired from Setapp brand colors are created by me. They are not created by Setapp or are based on their brand guidelines
 
 You can get in touch with me at Twitter: [@dhanishgajjar](https://twitter.com/dhanishgajjar)
 I post awesome stuff at Instagram: [@dhanishgajjar](https://instagram.com/dhanishgajjar)
