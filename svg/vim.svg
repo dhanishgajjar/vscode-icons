@@ -14,7 +14,7 @@
             <stop stop-color="#006200" offset="100%"></stop>
         </linearGradient>
         <rect id="path-3" x="68.1647497" y="53.7989054" width="744.886364" height="907.021277" rx="23.7553191"></rect>
-        <filter x="-2.4%" y="-1.3%" width="104.0%" height="103.3%" filterUnits="objectBoundingBox" id="filter-4">
+        <filter x="-3.1%" y="-1.9%" width="105.4%" height="104.4%" filterUnits="objectBoundingBox" id="filter-4">
             <feOffset dx="-3" dy="3" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
             <feGaussianBlur stdDeviation="4.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
             <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
@@ -39,7 +39,7 @@
             <stop stop-color="#808080" offset="100%"></stop>
         </linearGradient>
         <path d="M575.234009,265.486126 L233.696791,612.592348 C232.755338,613.549153 231.422544,614.013857 230.090289,613.849824 L191.285709,609.072051 C188.918187,608.780552 187.235237,606.624989 187.526736,604.257467 C187.618914,603.508802 187.905556,602.797331 188.358133,602.193865 L464.868442,233.49517 C465.914621,232.100196 467.696978,231.471108 469.387011,231.900328 L573.2185,258.270575 C575.530501,258.857758 576.928743,261.208011 576.34156,263.520012 C576.153129,264.261951 575.770899,264.940481 575.234009,265.486126 Z" id="path-11"></path>
-        <filter x="-9.0%" y="-5.8%" width="118.0%" height="118.3%" filterUnits="objectBoundingBox" id="filter-12">
+        <filter x="-10.3%" y="-7.1%" width="120.6%" height="120.9%" filterUnits="objectBoundingBox" id="filter-12">
             <feOffset dx="0" dy="13" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
             <feGaussianBlur stdDeviation="9.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
             <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
@@ -53,7 +53,7 @@
             <stop stop-color="#FEFEFE" offset="0%"></stop>
             <stop stop-color="#808080" offset="100%"></stop>
         </linearGradient>
-        <polygon id="path-15" points="163.409868 759.001849 770.015314 858.92013 949.681618 748.123836"></polygon>
+        <polygon id="path-15" points="156.409868 759.001849 770.173942 856.423702 942.681618 748.123836"></polygon>
         <linearGradient x1="-70.1993532%" y1="50%" x2="100%" y2="84.119113%" id="linearGradient-16">
             <stop stop-color="#FEFEFE" offset="0%"></stop>
             <stop stop-color="#808080" offset="100%"></stop>
@@ -65,34 +65,35 @@
             <g id="Rectangle" transform="translate(440.607931, 507.309544) rotate(-9.200000) translate(-440.607931, -507.309544) ">
                 <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
                 <use fill="#00A026" fill-rule="evenodd" xlink:href="#path-3"></use>
-                <rect stroke="#000000" stroke-width="25" stroke-linejoin="square" fill="url(#linearGradient-1)" fill-rule="evenodd" x="80.6647497" y="66.2989054" width="719.886364" height="882.021277" rx="23.7553191"></rect>
-                <rect stroke="url(#linearGradient-2)" stroke-width="23" stroke-linejoin="square" x="79.6647497" y="65.2989054" width="721.886364" height="884.021277" rx="23.7553191"></rect>
-                <rect stroke="#000000" stroke-width="10" stroke-linejoin="square" x="73.1647497" y="58.7989054" width="734.886364" height="897.021277" rx="23.7553191"></rect>
+                <rect stroke="#000000" stroke-width="20" stroke-linejoin="square" fill="url(#linearGradient-1)" fill-rule="evenodd" x="78.1647497" y="63.7989054" width="724.886364" height="887.021277" rx="23.7553191"></rect>
+                <rect stroke="url(#linearGradient-2)" stroke-width="18" stroke-linejoin="square" x="77.1647497" y="62.7989054" width="726.886364" height="889.021277" rx="23.7553191"></rect>
+                <use stroke="#000000" stroke-width="10" xlink:href="#path-3"></use>
             </g>
             <g id="Path-2">
                 <use fill="#CCCCCC" fill-rule="evenodd" xlink:href="#path-6"></use>
                 <use fill="#E0E0E0" fill-rule="evenodd" style="mix-blend-mode: multiply;" xlink:href="#path-6"></use>
-                <path stroke="#000000" stroke-width="20" d="M475.350666,243.670931 L538.021156,647.705902 L619.143682,595.20492 L567.224836,266.996369 L475.350666,243.670931 Z" stroke-linejoin="square"></path>
-                <path stroke="url(#linearGradient-5)" stroke-width="18" d="M474.130629,242.329457 L537.269422,649.383562 L620.23302,595.691072 L568.109596,266.189271 L474.130629,242.329457 Z" stroke-linejoin="square"></path>
-                <path stroke="#000000" stroke-width="10" d="M469.250484,236.963561 L534.262487,656.094203 L624.590373,597.635684 L571.648639,262.960878 L469.250484,236.963561 Z" stroke-linejoin="square"></path>
+                <path stroke="#000000" stroke-width="15" d="M472.300575,240.317246 L536.141821,651.900053 L621.867027,596.420302 L569.436737,264.978624 L472.300575,240.317246 Z" stroke-linejoin="square"></path>
+                <path stroke="url(#linearGradient-5)" stroke-width="13" d="M471.080538,238.975772 L535.390087,653.577713 L622.956366,596.906454 L570.321498,264.171525 L471.080538,238.975772 Z" stroke-linejoin="square"></path>
+                <use stroke="#000000" stroke-width="10" xlink:href="#path-6"></use>
             </g>
             <g id="Path-4">
                 <use fill="#CCCCCC" fill-rule="evenodd" xlink:href="#path-9"></use>
-                <path stroke="#000000" stroke-width="20" d="M613.879205,598.654621 L192.956135,380.27718 L169.995305,393.21359 L528.801407,653.853213 L613.879205,598.654621 Z" stroke-linejoin="square" fill="url(#linearGradient-7)" fill-rule="evenodd"></path>
-                <path stroke="url(#linearGradient-8)" stroke-width="18" d="M615.864977,598.558282 L192.936523,379.140435 L168.147152,393.107067 L528.769444,655.065983 L615.864977,598.558282 Z" stroke-linejoin="square"></path>
-                <path stroke="#000000" stroke-width="10" d="M623.808069,598.172927 L192.858072,374.593455 L160.754544,392.680972 L528.641593,659.917067 L623.808069,598.172927 Z" stroke-linejoin="square"></path>
+                <path stroke="#000000" stroke-width="15" d="M618.843637,598.413774 L192.907104,377.435318 L165.374924,392.947281 L528.7215,656.88514 L618.843637,598.413774 Z" stroke-linejoin="square" fill="url(#linearGradient-7)" fill-rule="evenodd"></path>
+                <path stroke="url(#linearGradient-8)" stroke-width="13" d="M620.829409,598.317435 L192.887491,376.298573 L163.526772,392.840758 L528.689537,658.09791 L620.829409,598.317435 Z" stroke-linejoin="square"></path>
+                <use stroke="#000000" stroke-width="10" xlink:href="#path-9"></use>
             </g>
             <g id="Path-3">
                 <use fill="black" fill-opacity="1" filter="url(#filter-12)" xlink:href="#path-11"></use>
-                <path stroke="#000000" stroke-width="20" d="M561.164876,265.526766 L470.59625,242.524909 L202.243923,600.345757 L228.532882,603.582558 L561.164876,265.526766 Z" stroke-linejoin="square" fill="#CCCCCC" fill-rule="evenodd"></path>
-                <path stroke="url(#linearGradient-10)" stroke-width="18" d="M563.099522,264.986364 L470.196235,241.39157 L200.407858,601.127245 L228.899942,604.635303 L563.099522,264.986364 Z" stroke-linejoin="square"></path>
-                <path stroke="#000000" stroke-width="10" d="M570.838106,262.824757 L468.596174,236.858212 L193.063601,604.253196 L230.368181,608.846283 L570.838106,262.824757 Z" stroke-linejoin="square"></path>
+                <path stroke="#000000" stroke-width="15" d="M566.001491,264.175761 L469.596212,239.691561 L197.653762,602.299476 L229.450532,606.21442 L566.001491,264.175761 Z" stroke-linejoin="square" fill="#CCCCCC" fill-rule="evenodd"></path>
+                <path stroke="url(#linearGradient-10)" stroke-width="13" d="M567.936137,263.63536 L469.196197,238.558221 L195.817697,603.080964 L229.817591,607.267166 L567.936137,263.63536 Z" stroke-linejoin="square"></path>
+                <use stroke="#000000" stroke-width="10" xlink:href="#path-11"></use>
             </g>
             <g id="Path-6">
                 <use fill="#CCCCCC" fill-rule="evenodd" xlink:href="#path-15"></use>
-                <path stroke="#000000" stroke-width="20" d="M276.182093,767.442611 L767.949993,848.445185 L913.603353,758.623934 L276.182093,767.442611 Z" stroke-linejoin="square" fill="url(#linearGradient-13)" fill-rule="evenodd"></path>
-                <path stroke="url(#linearGradient-14)" stroke-width="18" d="M264.90487,766.598534 L768.156525,849.49268 L917.211179,757.573924 L264.90487,766.598534 Z" stroke-linejoin="square"></path>
-                <path stroke="#000000" stroke-width="10" d="M219.79598,763.22223 L768.982654,853.682657 L931.642485,753.373885 L219.79598,763.22223 Z" stroke-linejoin="square"></path>
+                <path stroke="#000000" stroke-width="15" d="M243.88269,765.292387 L768.569924,848.575206 L916.041206,755.993122 L243.88269,765.292387 Z" stroke-linejoin="square" fill="url(#linearGradient-13)" fill-rule="evenodd"></path>
+                <path stroke="url(#linearGradient-14)" stroke-width="13" d="M232.219647,764.453648 L768.783793,849.621672 L919.593261,754.943884 L232.219647,764.453648 Z" stroke-linejoin="square"></path>
+                <path stroke="#000000" stroke-width="5" d="M185.567475,761.098695 L769.63927,853.807536 L933.801481,750.746932 L185.567475,761.098695 Z" stroke-linejoin="square"></path>
+                <use stroke="#000000" stroke-width="5" xlink:href="#path-15"></use>
             </g>
             <g id="Path-5" stroke-linejoin="square">
                 <path stroke="#000000" stroke-width="25" d="M662.826141,107.056137 L779.679802,837.890347 L935.931613,741.87816 L838.862861,148.811258 L662.826141,107.056137 Z" fill="#CCCCCC" fill-rule="evenodd"></path>
