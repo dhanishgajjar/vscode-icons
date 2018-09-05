@@ -33,7 +33,12 @@ These icons were created by [@jessicavrooyen](https://github.com/jessicavrooyen)
 
 <img src="linux/gryffindor.png" title="Gryffindor" width="128"/> <img src="linux/ravenclaw.png" title="Ravenclaw" width="128"/> <img src="linux/huffelpuff.png" title="Hufflepuff" width="128"/> <img src="linux/slytherin.png" title="Slytherin" width="128"/>
 
-## Based on TVShows and Movies
+## Based on Star Wars
+These icons were created by [Liam Richardson](https://github.com/discoliam)
+
+<img src="linux/sw-bb8.png" title="BB8" width="128"/> <img src="linux/sw-boba-fett.png" title="Boba Fett" width="128"/> <img src="linux/sw-c3p0.png" title="C3P0" width="128"/> <img src="linux/sw-chewbacca.png" title="Chewbacca" width="128"/> <img src="linux/sw-darth-vader.png" title="Darth Vader" width="128"/> <img src="linux/sw-jedi-robes.png" title="Jedi Robes" width="128"/> <img src="linux/sw-lando-esb.png" title="Lando ESB" width="128"/> <img src="linux/sw-lando-solo.png" title="Lando Solo" width="128"/> <img src="linux/sw-r2d2.png" title="R2D2" width="128"/> <img src="linux/sw-Storm-trooper.png" title="Storm Trooper" width="128"/> <img src="linux/sw-xwing-pilot.png" title="xwing pilot" width="128"/> <img src="linux/sw-yoda.png" title="Yoda" width="128"/>
+
+## Based on Movies and TVShows
 
 <img src="linux/stranger-things.png" title="Stranger Things" width="128"/> <img src="linux/matrix.png" title="Matrix" width="128"/>
 
