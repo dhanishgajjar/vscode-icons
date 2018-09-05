@@ -36,7 +36,7 @@ These icons were created by [@jessicavrooyen](https://github.com/jessicavrooyen)
 ## Based on Star Wars
 These icons were created by [Liam Richardson](https://github.com/discoliam)
 
-<img src="linux/sw-bb8.png" title="BB8" width="128"/> <img src="linux/sw-boba-fett.png" title="Boba Fett" width="128"/> <img src="linux/sw-c3p0.png" title="C3P0" width="128"/> <img src="linux/sw-chewbacca.png" title="Chewbacca" width="128"/> <img src="linux/sw-darth-vader.png" title="Darth Vader" width="128"/> <img src="linux/sw-jedi-robes.png" title="Jedi Robes" width="128"/> <img src="linux/sw-lando-esb.png" title="Lando ESB" width="128"/> <img src="linux/sw-lando-solo.png" title="Lando Solo" width="128"/> <img src="linux/sw-r2d2.png" title="R2D2" width="128"/> <img src="linux/sw-Storm-trooper.png" title="Storm Trooper" width="128"/> <img src="linux/sw-xwing-pilot.png" title="xwing pilot" width="128"/> <img src="linux/sw-yoda.png" title="Yoda" width="128"/>
+<img src="linux/sw-bb8.png" title="BB8" width="128"/> <img src="linux/sw-boba-fett.png" title="Boba Fett" width="128"/> <img src="linux/sw-c3p0.png" title="C3P0" width="128"/> <img src="linux/sw-chewbacca.png" title="Chewbacca" width="128"/> <img src="linux/sw-darth-vader.png" title="Darth Vader" width="128"/> <img src="linux/sw-jedi-robes.png" title="Jedi Robes" width="128"/> <img src="linux/sw-lando-esb.png" title="Lando ESB" width="128"/> <img src="linux/sw-lando-solo.png" title="Lando Solo" width="128"/> <img src="linux/sw-r2d2.png" title="R2D2" width="128"/> <img src="linux/sw-storm-trooper.png" title="Storm Trooper" width="128"/> <img src="linux/sw-xwing-pilot.png" title="xwing pilot" width="128"/> <img src="linux/sw-yoda.png" title="Yoda" width="128"/>
 
 ## Based on Movies and TVShows
 
