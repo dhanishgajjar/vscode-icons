@@ -21,28 +21,33 @@ All rights reserved etc to DC and Marvel. I own nothing. Just inspired by the ch
 
 <img src="linux/wonder-woman.png" title="Wonder Woman" width="128"/> <img src="linux/batgirl.png" title="Batgirl" width="128"/> <img src="linux/flash.png" title="Flash" width="128"/> <img src="linux/flash_alternative.png" title="Flash Alternative" width="128"/> <img src="linux/batman.png" title="Batman" width="128"/> <img src="linux/ironman.png" title="Iron Man" width="128"/> <img src="linux/spiderman.png" title="Spider-Man" width="128"/> <img src="linux/black_panther.png" title="Black Panther" width="128"/> <img src="linux/daredevil.png" title="Daredevil" width="128"/> <img src="linux/luke_cage.png" title="Luke Cage" width="128"/> <img src="linux/green_arrow.png" title="Green Arrow" width="128"/>
 
-## Based on Apps
-<img src="linux/xcode.png" title="Xcode" width="128"/> <img src="linux/sublime-text.png" title="Sublime Text" width="128"/> <img src="linux/spotify.png" title="Spotify" width="128"/> <img src="linux/github.png" title="Github" width="128"/> <img src="linux/github-inverse.png" title="Github" width="128"/> <a href="https://stpp.co/dhanishgajjar_git"><img src="linux/setapp.png" title="Setapp" width="128"/></a> <img src="linux/things.png" title="Things" width="128"/> <img src="linux/vim.png" title="Vim" width="128"/>
-## Based on Holidays
+## Apps, OS
+<img src="linux/xcode.png" title="Xcode" width="128"/> <img src="linux/sublime-text.png" title="Sublime Text" width="128"/> <img src="linux/spotify.png" title="Spotify" width="128"/> <img src="linux/github.png" title="Github" width="128"/> <img src="linux/github-inverse.png" title="Github" width="128"/> <a href="https://stpp.co/dhanishgajjar_git"><img src="linux/setapp.png" title="Setapp" width="128"/></a> <img src="linux/things.png" title="Things" width="128"/> <img src="linux/vim.png" title="Vim" width="128"/> <img src="linux/ubuntu.png" width="128"/> <img src="linux/vs_og--violet.png" width="128"/>
+
+## Holidays
 These icons were contributed by [@clarkio](https://github.com/clarkio)
 
 <img src="linux/new-year.png" alt="New Year's Day" title="New Year's Day" width="128"/> <img src="linux/christmas.png" alt="Christmas" title="Christmas" width="128"/> <img src="linux/chanukah.png" alt="Chanukah" title="Chanukah" width="128"/> <img src="linux/kwanza.png" alt="Kwanza" title="Kwanza" width="128"/> <img src="linux/valentines.png" alt="Valentine's Day" title="Valentine's Day" width="128"/> <img src="linux/st-patricks.png" alt="St. Patrick's Day" title="St. Patrick's Day" width="128"/> <img src="linux/easter.png" alt="Easter" title="Easter" width="128"/> <img src="linux/independence-day.png" alt="Independence Day" title="Independence Day" width="128"/> <img src="linux/halloween.png" alt="Halloween" title="Halloween" width="128"/> <img src="linux/thanksgiving.png" alt="Thanksgiving" title="Thanksgiving" width="128"/>
 
-## Based on Harry Potter
+## Harry Potter
 These icons were created by [@jessicavrooyen](https://github.com/jessicavrooyen)
 
 <img src="linux/gryffindor.png" title="Gryffindor" width="128"/> <img src="linux/ravenclaw.png" title="Ravenclaw" width="128"/> <img src="linux/huffelpuff.png" title="Hufflepuff" width="128"/> <img src="linux/slytherin.png" title="Slytherin" width="128"/>
 
-## Based on Star Wars
+## Star Wars
 These icons were created by [Liam Richardson](https://github.com/discoliam)
 
 <img src="linux/sw-bb8.png" title="BB8" width="128"/> <img src="linux/sw-boba-fett.png" title="Boba Fett" width="128"/> <img src="linux/sw-c3p0.png" title="C3P0" width="128"/> <img src="linux/sw-chewbacca.png" title="Chewbacca" width="128"/> <img src="linux/sw-darth-vader.png" title="Darth Vader" width="128"/> <img src="linux/sw-jedi-robes.png" title="Jedi Robes" width="128"/> <img src="linux/sw-lando-esb.png" title="Lando ESB" width="128"/> <img src="linux/sw-lando-solo.png" title="Lando Solo" width="128"/> <img src="linux/sw-r2d2.png" title="R2D2" width="128"/> <img src="linux/sw-storm-trooper.png" title="Storm Trooper" width="128"/> <img src="linux/sw-xwing-pilot.png" title="xwing pilot" width="128"/> <img src="linux/sw-yoda.png" title="Yoda" width="128"/>
 
-## Based on Movies and TVShows
+## Other Movies and TVShows
 
 <img src="linux/stranger-things.png" title="Stranger Things" width="128"/> <img src="linux/matrix.png" title="Matrix" width="128"/>
 
-## Others
+## Sports
+
+<img src="linux/barca.png" width="128"/> <img src="linux/champions_league-2018.png" width="128"/> <img src="linux/real_madrid.png" width="128"/>
+
+## Misc
 
 <img src="linux/white-on-black.png" title="White on Black" width="128"/> <img src="linux/black-on-white.png" title="Black on White" width="128"/> <img src="linux/neon.png" title="Neon" width="128"/> <img src="linux/emo.png" title="Emo" width="128"/>
 
