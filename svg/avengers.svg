@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1024px" height="1024px" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>avengers</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="68.1647497" y="53.7989054" width="744.886364" height="907.021277" rx="23.7553191"></rect>
+        <filter x="-2.4%" y="-1.3%" width="104.0%" height="103.3%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="-3" dy="3" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.12 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="avengers" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon" transform="translate(37.000000, 0.000000)">
+            <g id="Rectangle" transform="translate(440.607931, 507.309544) rotate(-9.200000) translate(-440.607931, -507.309544) ">
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                <use fill="#1F0505" fill-rule="evenodd" xlink:href="#path-1"></use>
+            </g>
+            <g id="Symbol_from_Marvel's_The_Avengers_logo" transform="translate(441.040347, 506.891562) rotate(-14.000000) translate(-441.040347, -506.891562) translate(180.540347, 216.391562)" fill="#F30303" fill-rule="nonzero" stroke="#D7CACA" stroke-width="3">
+                <path d="M248.958158,113.582438 C133.470993,119.241368 41.6339797,211.485575 41.6339797,324.440111 C41.6339797,362.549305 52.0881707,398.300612 70.3748208,429.164187 L48.2278679,470.238327 C17.86379,429.119895 0,378.793978 0,324.440111 C0,185.62958 116.502029,73.0893022 260.214419,73.0893022 C262.2687,73.0893022 264.317525,73.1127508 266.358166,73.1570426 L303.94633,0 L384.246085,0 L384.246085,103.423981 C465.36155,145.98841 520.428838,229.004288 520.428838,324.437506 C520.428838,463.250643 403.926809,575.788315 260.214419,575.788315 C216.34883,575.788315 175.017672,565.304183 138.760835,546.784996 L157.072038,510.635063 C187.79623,526.546244 222.912709,535.571352 260.214419,535.571352 C380.931408,535.571352 478.794858,441.042208 478.794858,324.437506 C478.794858,251.561847 440.565584,187.307458 382.423695,149.362404 L382.423695,349.1836 L309.045204,282.896999 L309.045204,131.450275 L218.422208,336.992931 L309.045204,336.992931 L309.045204,303.998138 L394.001875,380.268635 L306.213405,444.635056 L306.213405,410.559022 L186.704978,410.559022 L107.98481,580.402479 L10.5687725,578.581304 L248.958158,113.582438 Z" id="path3"></path>
+                <polygon id="polygon5" points="305.855672 467.804398 382.912334 405.120931 382.912334 467.804398"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -19,10 +19,10 @@ Hovering on them will reveal the names, and clicking them will take you to the t
 
 All rights reserved etc to DC and Marvel. I own nothing. Just inspired by the characters :)
 
-<img src="linux/wonder-woman.png" title="Wonder Woman" width="128"/> <img src="linux/batgirl.png" title="Batgirl" width="128"/> <img src="linux/flash.png" title="Flash" width="128"/> <img src="linux/flash_alternative.png" title="Flash Alternative" width="128"/> <img src="linux/batman.png" title="Batman" width="128"/> <img src="linux/ironman.png" title="Iron Man" width="128"/> <img src="linux/spiderman.png" title="Spider-Man" width="128"/> <img src="linux/black_panther.png" title="Black Panther" width="128"/> <img src="linux/daredevil.png" title="Daredevil" width="128"/> <img src="linux/luke_cage.png" title="Luke Cage" width="128"/> <img src="linux/green_arrow.png" title="Green Arrow" width="128"/>
+<img src="linux/wonder-woman.png" title="Wonder Woman" width="128"/> <img src="linux/batgirl.png" title="Batgirl" width="128"/> <img src="linux/flash.png" title="Flash" width="128"/> <img src="linux/flash_alternative.png" title="Flash Alternative" width="128"/> <img src="linux/batman.png" title="Batman" width="128"/> <img src="linux/ironman.png" title="Iron Man" width="128"/> <img src="linux/spiderman.png" title="Spider-Man" width="128"/> <img src="linux/black_panther.png" title="Black Panther" width="128"/> <img src="linux/daredevil.png" title="Daredevil" width="128"/> <img src="linux/luke_cage.png" title="Luke Cage" width="128"/> <img src="linux/green_arrow.png" title="Green Arrow" width="128"/>  <img src="linux/hulk.png" title="Hulk" width="128"/> <img src="linux/avengers.png" title="Avengers" width="128"/>
 
 ## Apps, OS
-<img src="linux/xcode.png" title="Xcode" width="128"/> <img src="linux/sublime-text.png" title="Sublime Text" width="128"/> <img src="linux/spotify.png" title="Spotify" width="128"/> <img src="linux/github.png" title="Github" width="128"/> <img src="linux/github-inverse.png" title="Github" width="128"/> <a href="https://stpp.co/dhanishgajjar_git"><img src="linux/setapp.png" title="Setapp" width="128"/></a> <img src="linux/things.png" title="Things" width="128"/> <img src="linux/vim.png" title="Vim" width="128"/> <img src="linux/ubuntu.png" width="128"/> <img src="linux/vs_og--violet.png" width="128"/> <img src="linux/instagram.png" title="Instagram" width="128"/>
+<img src="linux/xcode.png" title="Xcode" width="128"/> <img src="linux/sublime-text.png" title="Sublime Text" width="128"/> <img src="linux/spotify.png" title="Spotify" width="128"/> <img src="linux/github.png" title="Github" width="128"/> <img src="linux/github-inverse.png" title="Github" width="128"/> <a href="https://stpp.co/dhanishgajjar_git"><img src="linux/setapp.png" title="Setapp" width="128"/></a> <img src="linux/things.png" title="Things" width="128"/> <img src="linux/vim.png" title="Vim" width="128"/> <img src="linux/ubuntu.png" width="128"/> <img src="linux/vs_og--violet.png" width="128"/> <img src="linux/instagram.png" title="Instagram" width="128"/> <img src="linux/instagram-white.png" title="Instagram White" width="128"/> <img src="linux/safari.png" title="Safari" width="128" /> 
 
 ## Holidays
 These icons were contributed by [@clarkio](https://github.com/clarkio)
@@ -41,7 +41,7 @@ These icons were created by [Liam Richardson](https://github.com/discoliam)
 
 ## Other Movies and TVShows
 
-<img src="linux/stranger-things.png" title="Stranger Things" width="128"/> <img src="linux/matrix.png" title="Matrix" width="128"/>
+<img src="linux/stranger-things.png" title="Stranger Things" width="128"/> <img src="linux/matrix.png" title="Matrix" width="128"/> <img src="linux/mrrobot.png" title="Mr Robot" width="128"/>
 
 ## Sports
 
