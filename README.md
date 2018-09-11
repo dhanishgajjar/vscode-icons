@@ -45,7 +45,7 @@ These icons were created by [Liam Richardson](https://github.com/discoliam)
 
 ## Sports
 
-<img src="linux/barca.png" width="128"/> <img src="linux/champions_league-2018.png" width="128"/> <img src="linux/real_madrid.png" width="128"/>
+<img src="linux/barca.png" width="128"/> <img src="linux/champions_league-2018.png" width="128"/> <img src="linux/real_madrid.png" width="128"/> <img src="linux/atletico_madrid.png" width="128"/> <img src="linux/borussia.png" width="128"/> <img src="linux/galatasaray.png" width="128"/> <img src="linux/liverpool.png" width="128"/>
 
 ## Misc
 
