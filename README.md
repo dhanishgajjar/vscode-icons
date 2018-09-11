@@ -34,6 +34,14 @@ These icons were created by [@jessicavrooyen](https://github.com/jessicavrooyen)
 
 <img src="linux/gryffindor.png" title="Gryffindor" width="128"/> <img src="linux/ravenclaw.png" title="Ravenclaw" width="128"/> <img src="linux/huffelpuff.png" title="Hufflepuff" width="128"/> <img src="linux/slytherin.png" title="Slytherin" width="128"/>
 
+## Neon
+These icons were created by [Andrew Mundy](https://github.com/andrewmundy)
+
+<img src="linux/neon-green.png" title="green" width="128"/> 
+<img src="linux/neon-multi.png" title="multi" width="128"/> 
+<img src="linux/neon-prerelease.png" title="prerelease" width="128"/>
+<img src="linux/neon-infinity.png" title="infinity" width="128"/> 
+
 ## Star Wars
 These icons were created by [Liam Richardson](https://github.com/discoliam)
 
@@ -90,6 +98,8 @@ Daredevil and Luke Cage by [@Rawnly](https://github.com/Rawnly)
 Batgirl, Sublime Text, Neon, Spotify, White on Black and Black on White by [@fnky](https://github.com/fnky)
 
 Monokai Pro and Night Owl by [@coltborg](https://github.com/coltborg)
+
+Neon Set by [@andrewmundy](https://github.com/andrewmundy)
 
 ---
 #### Disclaimer for Setapp
