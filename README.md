@@ -37,10 +37,7 @@ These icons were created by [@jessicavrooyen](https://github.com/jessicavrooyen)
 ## Neon
 These icons were created by [Andrew Mundy](https://github.com/andrewmundy)
 
-<img src="linux/neon-green.png" title="green" width="128"/> 
-<img src="linux/neon-multi.png" title="multi" width="128"/> 
-<img src="linux/neon-prerelease.png" title="prerelease" width="128"/>
-<img src="linux/neon-infinity.png" title="infinity" width="128"/> 
+<img src="linux/neon-green.png" title="green" width="128"/> <img src="linux/neon-multi.png" title="multi" width="128"/> <img src="linux/neon-prerelease.png" title="prerelease" width="128"/> <img src="linux/neon-infinity.png" title="infinity" width="128"/> 
 
 ## Star Wars
 These icons were created by [Liam Richardson](https://github.com/discoliam)
