@@ -47,9 +47,13 @@ These icons were created by [Liam Richardson](https://github.com/discoliam)
 
 <img src="linux/barca.png" width="128"/> <img src="linux/champions_league-2018.png" width="128"/> <img src="linux/real_madrid.png" width="128"/> <img src="linux/atletico_madrid.png" width="128"/> <img src="linux/borussia.png" width="128"/> <img src="linux/galatasaray.png" width="128"/> <img src="linux/liverpool.png" width="128"/>
 
+## Brazilian Football Clubs - "Brasileirão"
+
+<img src="linux/flamengo.png" width="128"/> <img src="linux/corinthians.png" width="128"/> <img src="linux/parana.png" width="128"/> <img src="linux/vasco.png" width="128"/> <img src="linux/palmeiras.png" width="128"/> <img src="linux/cruzeiro.png" width="128"/> <img src="linux/botafogo.png" width="128"/> <img src="linux/sao-paulo.png" width="128"/> <img src="linux/fluminense.png" width="128"/> <img src="linux/santos.png" width="128"/> <img src="linux/gremio.png" width="128"/> <img src="linux/internacional.png" width="128"/> <img src="linux/chape.png" width="128"/> <img src="linux/atletico-mg.png" width="128"/> <img src="linux/america-mg.png" width="128"/> <img src="linux/bahia.png" width="128"/> <img src="linux/vitoria.png" width="128"/> <img src="linux/sport.png" width="128"/> <img src="linux/atletico-pr.png" width="128"/> <img src="linux/ceara.png" width="128"/>
+
 ## Misc
 
-<img src="linux/white-on-black.png" title="White on Black" width="128"/> <img src="linux/black-on-white.png" title="Black on White" width="128"/> <img src="linux/neon.png" title="Neon" width="128"/> <img src="linux/emo.png" title="Emo" width="128"/>
+<img src="linux/white-on-black.png" title="White on Black" width="128"/> <img src="linux/black-on-white.png" title="Black on White" width="128"/> <img src="linux/neon.png" title="Neon" width="128"/> <img src="linux/emo.png" title="Emo" width="128"/> <img src="linux/brazil.png" title="brazil" width="128"/> <img src="linux/brazil2.png" title="Brazil2" width="128"/>
 
 ---
 
