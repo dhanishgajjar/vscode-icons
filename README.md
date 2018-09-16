@@ -62,7 +62,7 @@ These icons were contributed by [@clarkio](https://github.com/clarkio)
  - Send pull request
 
 ### [VSCode Icons Manager](https://github.com/Rawnly/vscode-icons-desktop)
-Please check out this VSCode Project Manager made in Electron by [Federico Vitale](https://github.com/Rawnly)
+Please check out this VSCode Icon Manager made in Electron by [Federico Vitale](https://github.com/Rawnly)
 
 ## How to Install
 
