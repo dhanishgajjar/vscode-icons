@@ -80,7 +80,7 @@ Right click on the shortcut App Icon, select properties and then shortcut tab an
 
 **Linux:**
 
-I think this works, but not sure https://smdavis.us/projects/menulibre/
+I think this works, but not sure https://bluesabre.org/projects/menulibre/
 
 ### Contributions
 
