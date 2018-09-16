@@ -61,7 +61,8 @@ These icons were contributed by [@clarkio](https://github.com/clarkio)
  - Make sure, the `vscode.sketch` file is saved and committed
  - Send pull request
 
-## How to Install
+## [VSCode Icons Manager](https://github.com/Rawnly/vscode-icons-desktop)
+Please check out this VSCode Project Manager made in Electron by [Federico Vitale](https://github.com/Rawnly)
 
 **Mac OS:**
 
