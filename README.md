@@ -29,58 +29,37 @@ These icons were contributed by [@clarkio](https://github.com/clarkio)
 
 <img src="linux/new-year.png" alt="New Year's Day" title="New Year's Day" width="128"/> <img src="linux/christmas.png" alt="Christmas" title="Christmas" width="128"/> <img src="linux/chanukah.png" alt="Chanukah" title="Chanukah" width="128"/> <img src="linux/kwanza.png" alt="Kwanza" title="Kwanza" width="128"/> <img src="linux/valentines.png" alt="Valentine's Day" title="Valentine's Day" width="128"/> <img src="linux/st-patricks.png" alt="St. Patrick's Day" title="St. Patrick's Day" width="128"/> <img src="linux/easter.png" alt="Easter" title="Easter" width="128"/> <img src="linux/independence-day.png" alt="Independence Day" title="Independence Day" width="128"/> <img src="linux/halloween.png" alt="Halloween" title="Halloween" width="128"/> <img src="linux/thanksgiving.png" alt="Thanksgiving" title="Thanksgiving" width="128"/>
 
-## Harry Potter
-These icons were created by [@jessicavrooyen](https://github.com/jessicavrooyen)
+## Movies, TVShows, Books and Games
 
-<img src="linux/gryffindor.png" title="Gryffindor" width="128"/> <img src="linux/ravenclaw.png" title="Ravenclaw" width="128"/> <img src="linux/huffelpuff.png" title="Hufflepuff" width="128"/> <img src="linux/slytherin.png" title="Slytherin" width="128"/>
-
-
-## Star Wars
-These icons were created by [Liam Richardson](https://github.com/discoliam)
-
-<img src="linux/sw-bb8.png" title="BB8" width="128"/> <img src="linux/sw-boba-fett.png" title="Boba Fett" width="128"/> <img src="linux/sw-c3p0.png" title="C3P0" width="128"/> <img src="linux/sw-chewbacca.png" title="Chewbacca" width="128"/> <img src="linux/sw-darth-vader.png" title="Darth Vader" width="128"/> <img src="linux/sw-jedi-robes.png" title="Jedi Robes" width="128"/> <img src="linux/sw-lando-esb.png" title="Lando ESB" width="128"/> <img src="linux/sw-lando-solo.png" title="Lando Solo" width="128"/> <img src="linux/sw-r2d2.png" title="R2D2" width="128"/> <img src="linux/sw-storm-trooper.png" title="Storm Trooper" width="128"/> <img src="linux/sw-xwing-pilot.png" title="xwing pilot" width="128"/> <img src="linux/sw-yoda.png" title="Yoda" width="128"/>
-
-## Other Movies and TVShows
-
-<img src="linux/stranger-things.png" title="Stranger Things" width="128"/> <img src="linux/matrix.png" title="Matrix" width="128"/> <img src="linux/mrrobot.png" title="Mr Robot" width="128"/>
-
-## Games
-
-<img src="linux/botw.png" width="128"/> <img src="linux/botw-2.png"  width="128"/> <img src="linux/botw-3.png" width="128"/>
+<img src="linux/sw-bb8.png" title="BB8" width="128"/> <img src="linux/sw-boba-fett.png" title="Boba Fett" width="128"/> <img src="linux/sw-c3p0.png" title="C3P0" width="128"/> <img src="linux/sw-chewbacca.png" title="Chewbacca" width="128"/> <img src="linux/sw-darth-vader.png" title="Darth Vader" width="128"/> <img src="linux/sw-jedi-robes.png" title="Jedi Robes" width="128"/> <img src="linux/sw-lando-esb.png" title="Lando ESB" width="128"/> <img src="linux/sw-lando-solo.png" title="Lando Solo" width="128"/> <img src="linux/sw-r2d2.png" title="R2D2" width="128"/> <img src="linux/sw-storm-trooper.png" title="Storm Trooper" width="128"/> <img src="linux/sw-xwing-pilot.png" title="xwing pilot" width="128"/> <img src="linux/sw-yoda.png" title="Yoda" width="128"/> <img src="linux/stranger-things.png" title="Stranger Things" width="128"/> <img src="linux/matrix.png" title="Matrix" width="128"/> <img src="linux/mrrobot.png" title="Mr Robot" width="128"/> <img src="linux/gryffindor.png" title="Gryffindor" width="128"/> <img src="linux/ravenclaw.png" title="Ravenclaw" width="128"/> <img src="linux/huffelpuff.png" title="Hufflepuff" width="128"/> <img src="linux/slytherin.png" title="Slytherin" width="128"/> <img src="linux/botw.png" width="128"/> <img src="linux/botw-2.png"  width="128"/> <img src="linux/botw-3.png" width="128"/>
 
 ## Sports
 
-These icons were created by [Aral Tasher](https://github.com/araltasher)
+<img src="linux/barca.png" width="128" title="FC Barcelona"/> <img src="linux/champions_league-2018.png" width="128" title="Champions League"/> <img src="linux/real_madrid.png" width="128" title="Real Madrid C.F."/> <img src="linux/atletico_madrid.png" width="128" title="Atlético Madrid"/> <img src="linux/borussia.png" width="128" title="Borussia Dortmund"/> <img src="linux/galatasaray.png" width="128" title="Galatasaray S.K."/> <img src="linux/liverpool.png" width="128" title="Liverpool F.C."/> <img src="linux/flamengo.png" width="128"/> <img src="linux/corinthians.png" width="128"/> <img src="linux/parana.png" width="128"/> <img src="linux/vasco.png" width="128"/> <img src="linux/palmeiras.png" width="128"/> <img src="linux/cruzeiro.png" width="128"/> <img src="linux/botafogo.png" width="128"/> <img src="linux/sao-paulo.png" width="128"/> <img src="linux/fluminense.png" width="128"/> <img src="linux/santos.png" width="128"/> <img src="linux/gremio.png" width="128"/> <img src="linux/internacional.png" width="128"/> <img src="linux/chape.png" width="128"/> <img src="linux/atletico-mg.png" width="128"/> <img src="linux/america-mg.png" width="128"/> <img src="linux/bahia.png" width="128"/> <img src="linux/vitoria.png" width="128"/> <img src="linux/sport.png" width="128"/> <img src="linux/atletico-pr.png" width="128"/> <img src="linux/ceara.png" width="128"/>
 
-<img src="linux/barca.png" width="128" title="FC Barcelona"/> <img src="linux/champions_league-2018.png" width="128" title="Champions League"/> <img src="linux/real_madrid.png" width="128" title="Real Madrid C.F."/> <img src="linux/atletico_madrid.png" width="128" title="Atlético Madrid"/> <img src="linux/borussia.png" width="128" title="Borussia Dortmund"/> <img src="linux/galatasaray.png" width="128" title="Galatasaray S.K."/> <img src="linux/liverpool.png" width="128" title="Liverpool F.C."/>
+## Countries
 
-## Brazilian Football Clubs - "Brasileirão"
-These icons were created by [Alex Aquino](https://github.com/alexaquino)
-
-<img src="linux/flamengo.png" width="128"/> <img src="linux/corinthians.png" width="128"/> <img src="linux/parana.png" width="128"/> <img src="linux/vasco.png" width="128"/> <img src="linux/palmeiras.png" width="128"/> <img src="linux/cruzeiro.png" width="128"/> <img src="linux/botafogo.png" width="128"/> <img src="linux/sao-paulo.png" width="128"/> <img src="linux/fluminense.png" width="128"/> <img src="linux/santos.png" width="128"/> <img src="linux/gremio.png" width="128"/> <img src="linux/internacional.png" width="128"/> <img src="linux/chape.png" width="128"/> <img src="linux/atletico-mg.png" width="128"/> <img src="linux/america-mg.png" width="128"/> <img src="linux/bahia.png" width="128"/> <img src="linux/vitoria.png" width="128"/> <img src="linux/sport.png" width="128"/> <img src="linux/atletico-pr.png" width="128"/> <img src="linux/ceara.png" width="128"/>
-
-## Neon
-These icons were created by [Andrew Mundy](https://github.com/andrewmundy)
-
-<img src="linux/neon-green.png" title="green" width="128"/> <img src="linux/neon-multi.png" title="multi" width="128"/> <img src="linux/neon-prerelease.png" title="prerelease" width="128"/> <img src="linux/neon-infinity.png" title="infinity" width="128"/>
+<img src="linux/brazil.png" title="brazil" width="128"/> <img src="linux/brazil2.png" title="Brazil2" width="128"/>
 
 ## Misc
 
-<img src="linux/white-on-black.png" title="White on Black" width="128"/> <img src="linux/black-on-white.png" title="Black on White" width="128"/> <img src="linux/neon.png" title="Neon" width="128"/> <img src="linux/emo.png" title="Emo" width="128"/> <img src="linux/brazil.png" title="brazil" width="128"/> <img src="linux/brazil2.png" title="Brazil2" width="128"/>
+<img src="linux/white-on-black.png" title="White on Black" width="128"/> <img src="linux/black-on-white.png" title="Black on White" width="128"/> <img src="linux/neon.png" title="Neon" width="128"/> <img src="linux/emo.png" title="Emo" width="128"/> <img src="linux/neon-green.png" title="green" width="128"/> <img src="linux/neon-multi.png" title="multi" width="128"/> <img src="linux/neon-prerelease.png" title="prerelease" width="128"/> <img src="linux/neon-infinity.png" title="infinity" width="128"/>
 
 ---
 
 ## How to Contribute
 
- - Download the sample icon sketch file.
- - Sample file has separate color layers, it makes it easy to for anyone to change colors.
- - Change the colors and create your icon, without changing any dimensions.
- - Select the artboard and export a `svg` file.
+ - Download the `vscode.sketch` file
+ - There are a lot of versions. It makes it easy to for anyone to change colors
+ - Make a copy of any of the versions
+ - Change the colors and create your icon
+ - Select the artboard and export a `svg` file
  - Select the artboard again and export a `png` file, but @0.25x (256 x 256)
  - Download the [Image2Icon](http://www.img2icnsapp.com) App
  - Drop the `svg` as source and export a .ICNS for macOS
  - If you can afford pay for in-app purchases, so you can also export to .ico. If not then find an alternative way to create a .ico file from a `svg`
- - Send pull request for icon files only, **DO NOT** commit the sample sketch icon file
+ - Make sure, the `vscode.sketch` file is saved and committed
+ - Send pull request
 
 ## How to Install
 
