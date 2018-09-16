@@ -34,10 +34,6 @@ These icons were created by [@jessicavrooyen](https://github.com/jessicavrooyen)
 
 <img src="linux/gryffindor.png" title="Gryffindor" width="128"/> <img src="linux/ravenclaw.png" title="Ravenclaw" width="128"/> <img src="linux/huffelpuff.png" title="Hufflepuff" width="128"/> <img src="linux/slytherin.png" title="Slytherin" width="128"/>
 
-## Neon
-These icons were created by [Andrew Mundy](https://github.com/andrewmundy)
-
-<img src="linux/neon-green.png" title="green" width="128"/> <img src="linux/neon-multi.png" title="multi" width="128"/> <img src="linux/neon-prerelease.png" title="prerelease" width="128"/> <img src="linux/neon-infinity.png" title="infinity" width="128"/> 
 
 ## Star Wars
 These icons were created by [Liam Richardson](https://github.com/discoliam)
@@ -47,6 +43,10 @@ These icons were created by [Liam Richardson](https://github.com/discoliam)
 ## Other Movies and TVShows
 
 <img src="linux/stranger-things.png" title="Stranger Things" width="128"/> <img src="linux/matrix.png" title="Matrix" width="128"/> <img src="linux/mrrobot.png" title="Mr Robot" width="128"/>
+
+## Games
+
+<img src="linux/botw.png" width="128"/> <img src="linux/botw-2.png"  width="128"/> <img src="linux/botw-3.png" width="128"/>
 
 ## Sports
 
@@ -58,6 +58,11 @@ These icons were created by [Aral Tasher](https://github.com/araltasher)
 These icons were created by [Alex Aquino](https://github.com/alexaquino)
 
 <img src="linux/flamengo.png" width="128"/> <img src="linux/corinthians.png" width="128"/> <img src="linux/parana.png" width="128"/> <img src="linux/vasco.png" width="128"/> <img src="linux/palmeiras.png" width="128"/> <img src="linux/cruzeiro.png" width="128"/> <img src="linux/botafogo.png" width="128"/> <img src="linux/sao-paulo.png" width="128"/> <img src="linux/fluminense.png" width="128"/> <img src="linux/santos.png" width="128"/> <img src="linux/gremio.png" width="128"/> <img src="linux/internacional.png" width="128"/> <img src="linux/chape.png" width="128"/> <img src="linux/atletico-mg.png" width="128"/> <img src="linux/america-mg.png" width="128"/> <img src="linux/bahia.png" width="128"/> <img src="linux/vitoria.png" width="128"/> <img src="linux/sport.png" width="128"/> <img src="linux/atletico-pr.png" width="128"/> <img src="linux/ceara.png" width="128"/>
+
+## Neon
+These icons were created by [Andrew Mundy](https://github.com/andrewmundy)
+
+<img src="linux/neon-green.png" title="green" width="128"/> <img src="linux/neon-multi.png" title="multi" width="128"/> <img src="linux/neon-prerelease.png" title="prerelease" width="128"/> <img src="linux/neon-infinity.png" title="infinity" width="128"/>
 
 ## Misc
 
