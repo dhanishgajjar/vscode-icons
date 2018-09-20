@@ -39,7 +39,7 @@ These icons were contributed by [@clarkio](https://github.com/clarkio)
 
 ## Countries
 
-<img src="linux/brazil.png" title="brazil" width="128"/> <img src="linux/brazil2.png" title="Brazil2" width="128"/>
+<img src="linux/brazil.png" title="brazil" width="128"/> <img src="linux/brazil2.png" title="Brazil2" width="128"/><img src="linux/Egypt.png" title="Egypt" width="128"/><img src="linux/Egypt2.png" title="Egypt2" width="128"/>
 
 ## Misc
 
