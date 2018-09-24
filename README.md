@@ -35,7 +35,14 @@ These icons were contributed by [@clarkio](https://github.com/clarkio)
 
 ## Sports
 
-<img src="linux/barca.png" width="128" title="FC Barcelona"/> <img src="linux/champions_league-2018.png" width="128" title="Champions League"/> <img src="linux/real_madrid.png" width="128" title="Real Madrid C.F."/> <img src="linux/atletico_madrid.png" width="128" title="Atlético Madrid"/> <img src="linux/borussia.png" width="128" title="Borussia Dortmund"/> <img src="linux/galatasaray.png" width="128" title="Galatasaray S.K."/> <img src="linux/liverpool.png" width="128" title="Liverpool F.C."/> <img src="linux/flamengo.png" width="128"/> <img src="linux/corinthians.png" width="128"/> <img src="linux/parana.png" width="128"/> <img src="linux/vasco.png" width="128"/> <img src="linux/palmeiras.png" width="128"/> <img src="linux/cruzeiro.png" width="128"/> <img src="linux/botafogo.png" width="128"/> <img src="linux/sao-paulo.png" width="128"/> <img src="linux/fluminense.png" width="128"/> <img src="linux/santos.png" width="128"/> <img src="linux/gremio.png" width="128"/> <img src="linux/internacional.png" width="128"/> <img src="linux/chape.png" width="128"/> <img src="linux/atletico-mg.png" width="128"/> <img src="linux/america-mg.png" width="128"/> <img src="linux/bahia.png" width="128"/> <img src="linux/vitoria.png" width="128"/> <img src="linux/sport.png" width="128"/> <img src="linux/atletico-pr.png" width="128"/> <img src="linux/ceara.png" width="128"/> <img src="linux/fenerbahçe.png" width="128"/>
+These icons were contributed by [Aral Tasher](https://github.com/araltasher)
+
+<img src="linux/barca.png" width="128" title="FC Barcelona"/> <img src="linux/champions_league-2018.png" width="128" title="Champions League"/> <img src="linux/real_madrid.png" width="128" title="Real Madrid C.F."/> <img src="linux/atletico_madrid.png" width="128" title="Atlético Madrid"/> <img src="linux/borussia.png" width="128" title="Borussia Dortmund"/> <img src="linux/galatasaray.png" width="128" title="Galatasaray S.K."/> <img src="linux/liverpool.png" width="128" title="Liverpool F.C."/>
+
+
+These icons were contributed by [Alex Aquino](https://github.com/alexaquino)
+
+<img src="linux/flamengo.png" width="128"/> <img src="linux/corinthians.png" width="128"/> <img src="linux/parana.png" width="128"/> <img src="linux/vasco.png" width="128"/> <img src="linux/palmeiras.png" width="128"/> <img src="linux/cruzeiro.png" width="128"/> <img src="linux/botafogo.png" width="128"/> <img src="linux/sao-paulo.png" width="128"/> <img src="linux/fluminense.png" width="128"/> <img src="linux/santos.png" width="128"/> <img src="linux/gremio.png" width="128"/> <img src="linux/internacional.png" width="128"/> <img src="linux/chape.png" width="128"/> <img src="linux/atletico-mg.png" width="128"/> <img src="linux/america-mg.png" width="128"/> <img src="linux/bahia.png" width="128"/> <img src="linux/vitoria.png" width="128"/> <img src="linux/sport.png" width="128"/> <img src="linux/atletico-pr.png" width="128"/> <img src="linux/ceara.png" width="128"/> <img src="linux/fenerbahçe.png" width="128"/>
 
 ## Countries
 
@@ -43,7 +50,12 @@ These icons were contributed by [@clarkio](https://github.com/clarkio)
 
 ## Misc
 
-<img src="linux/white-on-black.png" title="White on Black" width="128"/> <img src="linux/black-on-white.png" title="Black on White" width="128"/> <img src="linux/neon.png" title="Neon" width="128"/> <img src="linux/stackoverflow.png" title="stackoverflow.com" width="128"/> <img src="linux/emo.png" title="Emo" width="128"/> <img src="linux/neon-green.png" title="green" width="128"/> <img src="linux/neon-multi.png" title="multi" width="128"/> <img src="linux/neon-prerelease.png" title="prerelease" width="128"/> <img src="linux/neon-infinity.png" title="infinity" width="128"/>
+<img src="linux/white-on-black.png" title="White on Black" width="128"/> <img src="linux/black-on-white.png" title="Black on White" width="128"/> <img src="linux/neon.png" title="Neon" width="128"/> <img src="linux/stackoverflow.png" title="stackoverflow.com" width="128"/> <img src="linux/emo.png" title="Emo" width="128"/>
+
+
+These icons were contributed by [Andrew Mundy](https://github.com/andrewmundy)
+
+<img src="linux/neon-green.png" title="green" width="128"/> <img src="linux/neon-multi.png" title="multi" width="128"/> <img src="linux/neon-prerelease.png" title="prerelease" width="128"/> <img src="linux/neon-infinity.png" title="infinity" width="128"/>
 
 ---
 
