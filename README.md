@@ -31,7 +31,7 @@ These icons were contributed by [@clarkio](https://github.com/clarkio)
 
 ## Movies, TVShows, Books and Games
 
-<img src="linux/stranger-things.png" title="Stranger Things" width="128"/> <img src="linux/matrix.png" title="Matrix" width="128"/> <img src="linux/botw.png" width="128"/> <img src="linux/botw-2.png"  width="128"/> <img src="linux/botw-3.png" width="128"/>
+<img src="linux/stranger-things.png" title="Stranger Things" width="128"/> <img src="linux/matrix.png" title="Matrix" width="128"/> <img src="linux/botw.png" width="128"/> <img src="linux/botw-2.png"  width="128"/> <img src="linux/botw-3.png" width="128"/> <img src="linux/stark.png" title="House of Stark" width="128"/> <img src="linux/lannister.png" title="House of Lannister" width="128"/> <img src="linux/targaryen.png" title="House of Targaryen" width="128"/>
 
 These icons were contributed by [Jessica Van Rooyen](https://github.com/jessicavrooyen)
 
@@ -39,7 +39,7 @@ These icons were contributed by [Jessica Van Rooyen](https://github.com/jessicav
 
 These icons were contributed by [Liam Richardson](https://github.com/discoliam)
 
-<img src="linux/sw-bb8.png" title="BB8" width="128"/> <img src="linux/sw-boba-fett.png" title="Boba Fett" width="128"/> <img src="linux/sw-c3p0.png" title="C3P0" width="128"/> <img src="linux/sw-chewbacca.png" title="Chewbacca" width="128"/> <img src="linux/sw-darth-vader.png" title="Darth Vader" width="128"/> <img src="linux/sw-jedi-robes.png" title="Jedi Robes" width="128"/> <img src="linux/sw-lando-esb.png" title="Lando ESB" width="128"/> <img src="linux/sw-lando-solo.png" title="Lando Solo" width="128"/> <img src="linux/sw-r2d2.png" title="R2D2" width="128"/> <img src="linux/sw-storm-trooper.png" title="Storm Trooper" width="128"/> <img src="linux/sw-xwing-pilot.png" title="xwing pilot" width="128"/> <img src="linux/sw-yoda.png" title="Yoda" width="128"/> 
+<img src="linux/sw-bb8.png" title="BB8" width="128"/> <img src="linux/sw-boba-fett.png" title="Boba Fett" width="128"/> <img src="linux/sw-c3p0.png" title="C3P0" width="128"/> <img src="linux/sw-chewbacca.png" title="Chewbacca" width="128"/> <img src="linux/sw-darth-vader.png" title="Darth Vader" width="128"/> <img src="linux/sw-jedi-robes.png" title="Jedi Robes" width="128"/> <img src="linux/sw-lando-esb.png" title="Lando ESB" width="128"/> <img src="linux/sw-lando-solo.png" title="Lando Solo" width="128"/> <img src="linux/sw-r2d2.png" title="R2D2" width="128"/> <img src="linux/sw-storm-trooper.png" title="Storm Trooper" width="128"/> <img src="linux/sw-xwing-pilot.png" title="xwing pilot" width="128"/> <img src="linux/sw-yoda.png" title="Yoda" width="128"/>
 
 This icon was contributed by [George](https://github.com/jorgeb12)
 
