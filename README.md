@@ -5,10 +5,6 @@ A fun little project for custom [Microsoft® Visual Studio Code](http://code.vis
 
 ---
 
-[![Setapp](imgs/banner-git.png)](https://stpp.co/dhanishgajjar_git)
-### Project sponsored by [Setapp](https://stpp.co/dhanishgajjar_git)
-Setapp was kind enough to support this open source project, so I can continue to maintain it. Setapp is a subscription service for Mac Apps with over 120+ awesome apps. New apps are added very often, expanding the library even more. [Sign up for a 7 day free trial](https://stpp.co/dhanishgajjar_git), no credit card info needed from your side.
-
 ## Based on the Popular Themes
 
 Hovering on them will reveal the names, and clicking them will take you to the theme pages.
