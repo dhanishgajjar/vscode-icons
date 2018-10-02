@@ -58,7 +58,7 @@ These icons were contributed by [Alex Aquino](https://github.com/alexaquino)
 
 These icons were contributed by [Akash Debnath](https://github.com/reactuserakash)
 
-<img src="linux/india.png" title="India" width="128"/><img src="linux/germany.png" title="Germany" width="128"/><img src="linux/usa.png" title="USA" width="128"/><img src="linux/china.png" title="China" width="128"/>
+<img src="linux/india.png" title="India" width="128"/><img src="linux/germany.png" title="Germany" width="128"/><img src="linux/china.png" title="China" width="128"/>
 
 ## Misc
 
