@@ -98,6 +98,9 @@ These icons were contributed by [Andrew Mundy](https://github.com/andrewmundy)
 ### [VSCode Icons Manager](https://github.com/Rawnly/vscode-icons-desktop)
 Please check out this VSCode Icon Manager made in Electron by [Federico Vitale](https://github.com/Rawnly)
 
+### [VSCode Icon Generator](https://vscode-icon-gen.herokuapp.com/)
+An icon generator that allows you to easily change the background and accent colour online. Made by [DJDMorrison](https://github.com/djdmorrison)
+
 ## How to Install
 
 **Mac OS:**
