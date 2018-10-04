@@ -5,6 +5,13 @@ A fun little project for custom [Microsoft® Visual Studio Code](http://code.vis
 
 ---
 
+## Hacktoberfest V
+
+This was created by [Felix](https://github.com/fzeeb)
+
+<a href="https://hacktoberfest.digitalocean.com"><img src="linux/hacktoberfest.png" alt="hacktoberfest" title="Cobalt2 by Wes Bos" width="256"/></a>
+
+
 ## Based on the Popular Themes
 
 Hovering on them will reveal the names, and clicking them will take you to the theme pages.
