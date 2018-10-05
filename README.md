@@ -101,7 +101,7 @@ These icons were contributed by [Andrew Mundy](https://github.com/andrewmundy)
    - `ico` to `vscode-icons/windows`
    - `svg` to `vscode-icons/svg`
  - Make sure, the `vscode.sketch` file is saved and committed
- – Make sure you have not edited any icons other than your own
+ - Make sure you have not edited any icons other than your own
  - Send pull request
 
 ### [VSCode Icons Manager](https://github.com/Rawnly/vscode-icons-desktop)
