@@ -89,10 +89,19 @@ These icons were contributed by [Andrew Mundy](https://github.com/andrewmundy)
  - Change the colors and create your icon
  - Select the artboard and export a `svg` file
  - Select the artboard again and export a `png` file, but @0.25x (256 x 256)
- - Download the [Image2Icon](http://www.img2icnsapp.com) App
- - Drop the `svg` as source and export a .ICNS for macOS
- - If you can afford pay for in-app purchases, so you can also export to .ico. If not then find an alternative way to create a .ico file from a `svg`
+ - Open the terminal, go to the directory where the `svg` and `png` were exported
+ - Run `sips -s format icns <nameOfIcon>.png --out <nameOfIcon>.icns`
+ - Download ImageMagick:
+   - [Homebrew](https://brew.sh): `brew install imagemagick`
+   - [MacPorts](https://www.macports.org): `port install ImageMagick`
+ - Run `convert -density 384 <nameOfIcon>.png <nameOfIcon>.ico`
+ - Drop the files into their respective locations:
+   - `png` to `vscode-icons/linux`
+   - `icns` to `vscode-icons/macOS`
+   - `ico` to `vscode-icons/windows`
+   - `svg` to `vscode-icons/svg`
  - Make sure, the `vscode.sketch` file is saved and committed
+ - Make sure you have not edited any icons other than your own
  - Send pull request
 
 ### [VSCode Icons Manager](https://github.com/Rawnly/vscode-icons-desktop)
