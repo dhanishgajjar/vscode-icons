@@ -52,7 +52,7 @@ This icon was contributed by [George](https://github.com/jorgeb12)
 
 These icons were contributed by [Aral Tasher](https://github.com/araltasher)
 
-<img src="linux/barca.png" width="128" title="FC Barcelona"/> <img src="linux/champions_league-2018.png" width="128" title="Champions League"/> <img src="linux/real_madrid.png" width="128" title="Real Madrid C.F."/> <img src="linux/atletico_madrid.png" width="128" title="Atlético Madrid"/> <img src="linux/borussia.png" width="128" title="Borussia Dortmund"/> <img src="linux/galatasaray.png" width="128" title="Galatasaray S.K."/> <img src="linux/liverpool.png" width="128" title="Liverpool F.C."/> <img src="linux/bayern_munich.png" width="128" title="Bayern Munich"/> <img src="linux/jevuntus.png" width="128" title="Jevuntus"/>
+<img src="linux/barca.png" width="128" title="FC Barcelona"/> <img src="linux/champions_league-2018.png" width="128" title="Champions League"/> <img src="linux/real_madrid.png" width="128" title="Real Madrid C.F."/> <img src="linux/atletico_madrid.png" width="128" title="Atlético Madrid"/> <img src="linux/borussia.png" width="128" title="Borussia Dortmund"/> <img src="linux/galatasaray.png" width="128" title="Galatasaray S.K."/> <img src="linux/liverpool.png" width="128" title="Liverpool F.C."/> <img src="linux/bayern_munich.png" width="128" title="Bayern Munich"/> <img src="linux/juventus.png" width="128" title="Juventus"/>
 
 
 These icons were contributed by [Alex Aquino](https://github.com/alexaquino)
