@@ -9,7 +9,7 @@ A fun little project for custom [Microsoft® Visual Studio Code](http://code.vis
 
 This was created by [Felix](https://github.com/fzeeb)
 
-<a href="https://hacktoberfest.digitalocean.com"><img src="linux/hacktoberfest.png" alt="hacktoberfest" title="Cobalt2 by Wes Bos" width="256"/></a>
+<a href="https://hacktoberfest.digitalocean.com"><img src="linux/hacktoberfest.png" alt="hacktoberfest" title="Hacktoberfest by Felix" width="256"/></a>
 
 
 ## Based on the Popular Themes
