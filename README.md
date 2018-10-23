@@ -68,7 +68,7 @@ These icons were contributed by [Akash Debnath](https://github.com/reactuserakas
 <img src="linux/india.png" title="India" width="128"/><img src="linux/germany.png" title="Germany" width="128"/><img src="linux/china.png" title="China" width="128"/>
 
 
-These icons were contributed by [Rajdeep Ratan](https://github.com/rajdeepratan)
+This icons was contributed by [Rajdeep Ratan](https://github.com/rajdeepratan)
 
 <img src="linux/india-flag.png" title="India Flag" width="128" />
 
