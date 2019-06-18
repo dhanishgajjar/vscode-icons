@@ -125,6 +125,10 @@ Copy the `.icns` file you'd like to use. Find VS Code in your Applications folde
 
 If for some reason that doesn't work, then dragging the `.icns` to the icon (in the top left) of the info pane, until you see the green plus sign and then dropping it works.
 
+*Important Notes*  
+Once you have added the desired image, you may *delete* the source image after the icon has changes as OS X - Mojave are able to save this information without using the image path.
+
+
 **Windows:**
 
 Right click on the shortcut App Icon, select properties and then shortcut tab and then `change icon` button.
