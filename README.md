@@ -25,7 +25,7 @@ All rights reserved etc to DC and Marvel. I own nothing. Just inspired by the ch
 <img src="linux/wonder-woman.png" title="Wonder Woman" width="128"/> <img src="linux/batgirl.png" title="Batgirl" width="128"/> <img src="linux/flash.png" title="Flash" width="128"/> <img src="linux/flash_alternative.png" title="Flash Alternative" width="128"/> <img src="linux/batman.png" title="Batman" width="128"/> <img src="linux/ironman.png" title="Iron Man" width="128"/> <img src="linux/spiderman.png" title="Spider-Man" width="128"/> <img src="linux/black_panther.png" title="Black Panther" width="128"/> <img src="linux/daredevil.png" title="Daredevil" width="128"/> <img src="linux/luke_cage.png" title="Luke Cage" width="128"/> <img src="linux/green_arrow.png" title="Green Arrow" width="128"/>  <img src="linux/hulk.png" title="Hulk" width="128"/> <img src="linux/avengers.png" title="Avengers" width="128"/>
 
 ## Apps, OS
-<img src="linux/xcode.png" title="Xcode" width="128"/> <img src="linux/sublime-text.png" title="Sublime Text" width="128"/> <img src="linux/spotify.png" title="Spotify" width="128"/> <img src="linux/github.png" title="Github" width="128"/> <img src="linux/github-inverse.png" title="Github" width="128"/> <a href="https://stpp.co/dhanishgajjar_git"><img src="linux/setapp.png" title="Setapp" width="128"/></a> <img src="linux/things.png" title="Things" width="128"/> <img src="linux/vim.png" title="Vim" width="128"/> <img src="linux/ubuntu.png" width="128" title="Ubuntu"/> <img src="linux/vs_og--violet.png" width="128" title="Visual Studio"/> <img src="linux/instagram.png" title="Instagram" width="128"/> <img src="linux/instagram-white.png" title="Instagram White" width="128"/> <img src="linux/safari.png" title="Safari" width="128" /> <img src="linux/android-studio.png" title="Android Studio IDE" width="128" /> <img src="linux/android-studio-inverse.png" title="Android Studio IDE" width="128" /> <img src="linux/mohave-day.png" title="macOS Mojave by day" width="128" /> <img src="linux/mohave-evening.png" title="macOS Mojave by evening" width="128" /> <img src="linux/mohave-night.png" title="macOS Mojave by night" width="128" /> 
+<img src="linux/xcode.png" title="Xcode" width="128"/> <img src="linux/sublime-text.png" title="Sublime Text" width="128"/> <img src="linux/spotify.png" title="Spotify" width="128"/> <img src="linux/github.png" title="Github" width="128"/> <img src="linux/github-inverse.png" title="Github" width="128"/> <a href="https://stpp.co/dhanishgajjar_git"><img src="linux/setapp.png" title="Setapp" width="128"/></a> <img src="linux/things.png" title="Things" width="128"/> <img src="linux/vim.png" title="Vim" width="128"/> <img src="linux/ubuntu.png" width="128" title="Ubuntu"/> <img src="linux/vs_og--violet.png" width="128" title="Visual Studio"/> <img src="linux/instagram.png" title="Instagram" width="128"/> <img src="linux/instagram-white.png" title="Instagram White" width="128"/> <img src="linux/safari.png" title="Safari" width="128" /> <img src="linux/android-studio.png" title="Android Studio IDE" width="128" /> <img src="linux/android-studio-inverse.png" title="Android Studio IDE" width="128" /> <img src="linux/mohave-day.png" title="macOS Mojave by day" width="128" /> <img src="linux/mohave-evening.png" title="macOS Mojave by evening" width="128" /> <img src="linux/mohave-night.png" title="macOS Mojave by night" width="128" />
 
 ## Holidays
 These icons were contributed by [@clarkio](https://github.com/clarkio)
@@ -125,7 +125,7 @@ Copy the `.icns` file you'd like to use. Find VS Code in your Applications folde
 
 If for some reason that doesn't work, then dragging the `.icns` to the icon (in the top left) of the info pane, until you see the green plus sign and then dropping it works.
 
-*Important Notes*  
+*Important Notes*
 Once you have added the desired image, you may *delete* the source image after the icon has changes as OS X - Mojave are able to save this information without using the image path.
 
 
@@ -135,7 +135,9 @@ Right click on the shortcut App Icon, select properties and then shortcut tab an
 
 **Linux:**
 
-I think this works, but not sure https://bluesabre.org/projects/menulibre/
+Just change the icon path in the file at `/var/lib/snapd/desktop/applications/code_code.desktop`.
+
+This file path may be different for your system, you can find the path through `locate code_code.desktop`.
 
 ### Contributions
 
