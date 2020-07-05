@@ -80,7 +80,7 @@ This icons was contributed by [Sem](https://github.com/semspanhaak)
 This icons was contributed by [Harold AO](https://github.com/haroldao)
 
 
-<img src="linux/France.png" title="France" width="128"/>
+<img src="linux/France@0,25x.png" title="France" width="128"/>
 ## Misc
 
 <img src="linux/white-on-black.png" title="White on Black" width="128"/> <img src="linux/black-on-white.png" title="Black on White" width="128"/> <img src="linux/neon.png" title="Neon" width="128"/> <img src="linux/stackoverflow.png" title="stackoverflow.com" width="128"/> <img src="linux/emo.png" title="Emo" width="128"/>
