@@ -68,19 +68,19 @@ These icons were contributed by [Akash Debnath](https://github.com/reactuserakas
 <img src="linux/india.png" title="India" width="128"/><img src="linux/germany.png" title="Germany" width="128"/><img src="linux/china.png" title="China" width="128"/>
 
 
-This icons was contributed by [Rajdeep Ratan](https://github.com/rajdeepratan)
+This icon was contributed by [Rajdeep Ratan](https://github.com/rajdeepratan)
 
 <img src="linux/india-flag.png" title="India Flag" width="128" />
 
-This icons was contributed by [Sem](https://github.com/semspanhaak)
+These icons was contributed by [Sem](https://github.com/semspanhaak)
 
 
 <img src="linux/netherlands.png" title="Netherlands" width="128"/><img src="linux/netherlands-invert.png" title="Netherlands Inverted" width="128"/>
 
-This icons was contributed by [Harold AO](https://github.com/haroldao)
+These icons was contributed by [Harold AO](https://github.com/haroldao)
 
 
-<img src="linux/France@0,25x.png" title="France" width="128"/>
+<img src="linux/France@0,25x.png" title="France" width="128"/><img src="linux/BELGIUM.png" title="Belgium" width="128"/><img src="linux/Switzerland.png" title="Switzerland" width="128"/><img src="linux/SPAIN.png" title="Spain" width="128"/><img src="linux/GERMANY.png" title="Germany" width="128"/>
 
 ## Misc
 
