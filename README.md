@@ -72,7 +72,7 @@ This icon was contributed by [Rajdeep Ratan](https://github.com/rajdeepratan)
 
 <img src="linux/india-flag.png" title="India Flag" width="128" />
 
-These icons was contributed by [Sem](https://github.com/semspanhaak)
+These icons were contributed by [Sem](https://github.com/semspanhaak)
 
 
 <img src="linux/netherlands.png" title="Netherlands" width="128"/><img src="linux/netherlands-invert.png" title="Netherlands Inverted" width="128"/>
