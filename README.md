@@ -77,7 +77,7 @@ These icons were contributed by [Sem](https://github.com/semspanhaak)
 
 <img src="linux/netherlands.png" title="Netherlands" width="128"/><img src="linux/netherlands-invert.png" title="Netherlands Inverted" width="128"/>
 
-These icons was contributed by [Harold AO](https://github.com/haroldao)
+These icons were contributed by [Harold AO](https://github.com/haroldao)
 
 
 <img src="linux/France@0,25x.png" title="France" width="128"/><img src="linux/BELGIUM.png" title="Belgium" width="128"/><img src="linux/Switzerland.png" title="Switzerland" width="128"/><img src="linux/SPAIN.png" title="Spain" width="128"/><img src="linux/GERMANY.png" title="Germany" width="128"/>
