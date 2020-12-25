@@ -18,8 +18,9 @@
   "homepage": "https://github.com/dhanishgajjar/vscode-icons#readme",
   "dependencies": {
     "glob-fs": "^0.1.7",
-    "read-promise": "^1.0.0",
-    "svg-to-png": "^3.1.2",
+    "npm-check-updates": "^3.1.20",
+    "read-promise": "^1.0.2",
+    "svg-to-png": "^4.0.0",
     "to-ico": "^1.1.5"
   }
 }

@@ -1,2 +1,7 @@
 node_modules/
 .DS_Store
+.sketch
+*.log
+haters/
+.idea/
+.vs_code/
