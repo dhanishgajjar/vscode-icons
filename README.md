@@ -94,6 +94,9 @@ These icons were contributed by [Andrew Mundy](https://github.com/andrewmundy)
 ## Pixar Characters
 
 <img src="linux/lightning-mcqueen.png" title="Cars: Lightning-McQueen" width="128"/> <img src="linux/wall-e.png" title="Wall-e" width="128"/> <img src="linux/monsters-inc-mike.png" title="Monsters Inc.: Mike" width="128"/> <img src="linux/monsters-inc-sully.png" title="Monsters Inc.: Sully" width="128"/> <img src="linux/nemo-in-the-ocean.png" title="Fiding-Nemo: Nemo" width="128"/> <img src="linux/nemo.png" title="Fiding-Nemo: Nemo" width="128"/> <img src="linux/dory.png" title="Fiding-Nemo: Dory" width="128"/> <img src="linux/ratatouille-remi.png" title="Ratatouille: Remi" width="128"/> <img src="linux/the-incredibles-1.png" title="The Incredibles 1" width="128"/> <img src="linux/the-incredibles-2.png" title="The Incredibles 2" width="128"/>
+
+These icons were contributed by [Pantelis Eleftheriadis](https://github.com/panteliselef)
+
 ---
 
 ## How to Contribute
