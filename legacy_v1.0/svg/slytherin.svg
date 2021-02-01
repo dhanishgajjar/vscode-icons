@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1024px" height="1024px" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>slytherin</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="0%" x2="100%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" stop-opacity="0.18" offset="0%"></stop>
+            <stop stop-color="#808080" stop-opacity="0.08" offset="48.7623565%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.182801178" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-2" x="67.6787488" y="54.6722896" width="744.646233" height="906.128539" rx="23.7319379"></rect>
+        <filter x="-2.4%" y="-1.3%" width="104.0%" height="103.3%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="-3" dy="3" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.12 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="100%" y1="0%" x2="50%" y2="5.90452261%" id="linearGradient-4">
+            <stop stop-color="#000000" stop-opacity="0.3" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <polygon id="path-5" points="163.663442 758.131596 770.073336 857.951532 949.681721 747.26429"></polygon>
+        <path d="M464.308257,236.355558 L529.618587,657.130732 L529.618587,657.130732 C529.984094,659.485587 532.189384,661.098272 534.544239,660.732765 C535.143529,660.639747 535.71648,660.421441 536.225722,660.092088 L627.782712,600.877347 L627.782712,600.877347 C629.216026,599.950347 629.968132,598.265531 629.701254,596.579561 L576.637552,261.355821 L576.637552,261.355821 C576.367825,259.651854 575.109058,258.272324 573.436857,257.848059 L469.633239,231.511366 L469.633239,231.511366 C467.323373,230.925314 464.975768,232.322743 464.389716,234.632609 C464.246879,235.195589 464.219172,235.781612 464.308257,236.355558 Z" id="path-6"></path>
+        <linearGradient x1="5.23386356%" y1="3.68263437%" x2="50%" y2="50%" id="linearGradient-7">
+            <stop stop-color="#000000" stop-opacity="0.09" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <path d="M627.613676,601.016 L531.102942,663.590839 L531.102942,663.590839 C529.605517,664.561727 527.664911,664.510594 526.220692,663.462197 L157.214678,395.590751 L157.214678,395.590751 C155.286184,394.190805 154.857712,391.492571 156.257658,389.564077 C156.622459,389.061546 157.091431,388.643675 157.632538,388.339011 L190.971739,369.567738 L190.971739,369.567738 C192.239951,368.853684 193.782677,368.827077 195.074758,369.496973 L627.252305,593.564853 L627.252305,593.564853 C629.367919,594.66172 630.193777,597.26595 629.096911,599.381563 C628.752555,600.045749 628.241422,600.608988 627.613676,601.016 Z" id="path-8"></path>
+        <path d="M575.353553,265.102906 L233.926447,611.867479 L233.926447,611.867479 C232.986041,612.822586 231.655178,613.286429 230.324841,613.122741 L191.528868,608.34919 L191.528868,608.34919 C189.163652,608.058168 187.482186,605.904862 187.773208,603.539647 C187.865307,602.791133 188.15198,602.079829 188.604653,601.476635 L465.026137,233.140413 L465.026137,233.140413 C466.07128,231.747741 467.851061,231.119723 469.538775,231.54807 L573.34037,257.893271 L573.34037,257.893271 C575.650188,258.47951 577.047425,260.827229 576.461185,263.137048 C576.27288,263.87898 575.890598,264.557465 575.353553,265.102906 Z" id="path-9"></path>
+        <filter x="-9.0%" y="-5.8%" width="118.0%" height="118.3%" filterUnits="objectBoundingBox" id="filter-10">
+            <feOffset dx="0" dy="13" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="9.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="slytherin">
+            <g id="icon" transform="translate(38.000000, 0.000000)">
+                <g id="Rectangle" transform="translate(440.001865, 507.736559) rotate(-9.200000) translate(-440.001865, -507.736559) ">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                    <use fill="#010101" fill-rule="evenodd" xlink:href="#path-2"></use>
+                    <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+                </g>
+                <g id="Path-6">
+                    <use fill="#087A37" xlink:href="#path-5"></use>
+                    <use fill="url(#linearGradient-4)" xlink:href="#path-5"></use>
+                </g>
+                <polygon id="top-line-copy" fill="#D2D2D2" transform="translate(721.567980, 795.599976) rotate(97.000000) translate(-721.567980, -795.599976) " points="668.922749 743.771647 774.213211 821.723298 773.152124 847.428306 672.852889 772.945439"></polygon>
+                <polygon id="top-line-copy-2" fill="#D2D2D2" transform="translate(670.065623, 792.053454) rotate(97.000000) translate(-670.065623, -792.053454) " points="622.148954 743.866804 717.982293 814.610726 716.931266 840.240103 626.146609 773.086657"></polygon>
+                <polygon id="top-line-copy-3" fill="#D2D2D2" transform="translate(572.497094, 785.817090) rotate(97.000000) translate(-572.497094, -785.817090) " points="534.311156 752.715945 610.683032 809.196386 610.294374 818.918235 535.799897 763.606791"></polygon>
+                <polygon id="top-line-copy" fill="#D2D2D2" transform="translate(477.082290, 778.850425) rotate(97.000000) translate(-477.082290, -778.850425) " points="446.982625 743.723859 507.181956 788.403469 506.132534 813.976991 451.001758 773.110013"></polygon>
+                <polygon id="top-line-copy-4" fill="#D2D2D2" transform="translate(228.849774, 761.890663) rotate(97.000000) translate(-228.849774, -761.890663) " points="221.654701 743.700241 236.044847 754.345241 234.986381 780.081085 225.685396 773.147463"></polygon>
+                <polygon id="top-line-copy-2" fill="#D2D2D2" transform="translate(425.057287, 775.310209) rotate(97.000000) translate(-425.057287, -775.310209) " points="399.758368 743.880273 450.356205 781.18887 449.300783 806.740145 403.755345 773.060617"></polygon>
+                <polygon id="top-line-copy-5" fill="#D2D2D2" transform="translate(177.545258, 758.432177) rotate(97.000000) translate(-177.545258, -758.432177) " points="175.159724 744.647611 179.930793 748.197234 178.938348 772.216744"></polygon>
+                <polygon id="top-line-copy-3" fill="#D2D2D2" transform="translate(327.346712, 769.061972) rotate(97.000000) translate(-327.346712, -769.061972) " points="311.799619 752.79824 342.893806 775.856698 342.494649 785.325705 313.291229 763.702953"></polygon>
+                <g id="Path-2">
+                    <use fill="#087A37" xlink:href="#path-6"></use>
+                    <use fill="#E0E0E0" style="mix-blend-mode: multiply;" xlink:href="#path-6"></use>
+                </g>
+                <g id="Path-4">
+                    <use fill="#087A37" xlink:href="#path-8"></use>
+                    <use fill="url(#linearGradient-7)" xlink:href="#path-8"></use>
+                </g>
+                <g id="Path-3">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-10)" xlink:href="#path-9"></use>
+                    <use fill="#087A37" fill-rule="evenodd" xlink:href="#path-9"></use>
+                </g>
+                <polygon id="Path-5" fill="#087A37" points="647.630799 90.3695573 849.885467 138.311696 949.622439 747.277326 770.347351 857.363711"></polygon>
+                <polygon id="top-line" fill="#D2D2D2" transform="translate(770.433072, 247.545360) scale(-1, -1) translate(-770.433072, -247.545360) " points="659.590284 165.124242 876.144088 297.911408 881.275859 329.966478 664.888972 197.485975"></polygon>
+                <polygon id="top-line" fill="#D2D2D2" transform="translate(789.697345, 366.645373) scale(-1, -1) translate(-789.697345, -366.645373) " points="680.276126 294.373098 897.21546 426.986866 899.118563 438.917647 682.218191 306.239067"></polygon>
+                <polygon id="top-line" fill="#D2D2D2" transform="translate(809.541893, 489.104415) scale(-1, -1) translate(-809.541893, -489.104415) " points="698.230842 406.608076 915.683233 539.291183 920.852944 571.600755 703.531254 438.969809"></polygon>
+                <polygon id="top-line" fill="#D2D2D2" transform="translate(818.988385, 547.487682) scale(-1, -1) translate(-818.988385, -547.487682) " points="707.578161 465.040785 925.240226 597.690113 930.398608 629.934579 712.85881 497.485223"></polygon>
+                <polygon id="top-line" fill="#D2D2D2" transform="translate(838.197750, 666.258537) scale(-1, -1) translate(-838.197750, -666.258537) " points="728.171869 593.743183 946.314567 726.833243 948.223631 738.773891 730.170527 605.946613"></polygon>
+                <polygon id="top-line" fill="#D2D2D2" transform="translate(812.662469, 757.643779) scale(-1, -1) translate(-812.662469, -757.643779) " points="770.42476 709.677485 873.429515 773.24834 878.60792 805.610073 746.717018 724.315298"></polygon>
+                <polygon id="top-line" fill="#D2D2D2" transform="translate(796.247691, 799.850986) scale(-1, -1) translate(-796.247691, -799.850986) " points="779.834891 767.987027 831.276255 799.411633 836.45135 831.714945 756.044032 782.673047"></polygon>
+                <polygon id="top-line" fill="#D2D2D2" transform="translate(760.998525, 189.269615) scale(-1, -1) translate(-760.998525, -189.269615) " points="650.26103 106.823872 866.556743 239.365047 871.736021 271.715357 655.562775 139.19349"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

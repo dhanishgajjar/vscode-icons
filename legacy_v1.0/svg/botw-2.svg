@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1024" height="1024" viewBox="0 0 1024 1024">
+  <defs>
+    <linearGradient id="botw-2-c" x1="4.236%" x2="97.698%" y1="2.594%" y2="100%">
+      <stop offset="0%" stop-color="#3862BB"/>
+      <stop offset="100%" stop-color="#1C1784"/>
+    </linearGradient>
+    <linearGradient id="botw-2-d" x1="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFF" stop-opacity=".18"/>
+      <stop offset="48.762%" stop-color="gray" stop-opacity=".08"/>
+      <stop offset="100%" stop-opacity=".183"/>
+    </linearGradient>
+    <rect id="botw-2-b" width="710.606" height="865.103" x="64.697" y="51.949" rx="22.663"/>
+    <filter id="botw-2-a" width="110%" height="108.2%" x="-5.4%" y="-3.8%" filterUnits="objectBoundingBox">
+      <feMorphology in="SourceAlpha" operator="dilate" radius="22" result="shadowSpreadOuter1"/>
+      <feOffset dx="-3" dy="3" in="shadowSpreadOuter1" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="4"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.12 0"/>
+    </filter>
+    <filter id="botw-2-e" width="111.1%" height="109.1%" x="-6%" y="-4.2%" filterUnits="objectBoundingBox">
+      <feGaussianBlur in="SourceAlpha" result="shadowBlurInner1" stdDeviation="9"/>
+      <feOffset dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"/>
+      <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+      <feColorMatrix in="shadowInnerInner1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0"/>
+    </filter>
+    <path id="botw-2-f" d="M444.151711,213.712251 L509.482558,634.898473 C509.848189,637.255685 512.055489,638.870181 514.412701,638.50455 C515.01317,638.41141 515.587228,638.192617 516.097364,637.862466 L607.678747,578.592707 C609.11266,577.664705 609.865022,575.978865 609.598153,574.291833 L556.517132,238.736516 C556.247327,237.030929 554.987572,235.649954 553.313876,235.225029 L449.482667,208.863882 C447.170618,208.276888 444.820479,209.675322 444.233485,211.987371 C444.090397,212.550965 444.062584,213.137648 444.151711,213.712251 Z"/>
+    <linearGradient id="botw-2-h" x1="5.234%" x2="50%" y1="3.683%" y2="50%">
+      <stop offset="0%" stop-opacity=".09"/>
+      <stop offset="100%" stop-opacity="0"/>
+    </linearGradient>
+    <path id="botw-2-g" d="M607.510916,578.73068 L510.970663,641.366129 C509.471239,642.338957 507.527506,642.28773 506.081406,641.237271 L136.957803,373.102934 C135.02785,371.701001 134.599806,368.999974 136.001739,367.070021 C136.366546,366.567815 136.835314,366.150139 137.376109,365.845449 L170.724601,347.056504 C171.9946,346.340972 173.53984,346.314311 174.833766,346.985608 L607.149131,571.273441 C609.266532,572.371961 610.092498,574.978981 608.993978,577.096381 C608.649489,577.760384 608.138453,578.323533 607.510916,578.73068 Z"/>
+    <path id="botw-2-j" d="M555.234009,242.486126 L213.696791,589.592348 C212.755338,590.549153 211.422544,591.013857 210.090289,590.849824 L171.285709,586.072051 C168.918187,585.780552 167.235237,583.624989 167.526736,581.257467 C167.618914,580.508802 167.905556,579.797331 168.358133,579.193865 L444.868442,210.49517 C445.914621,209.100196 447.696978,208.471108 449.387011,208.900328 L553.2185,235.270575 C555.530501,235.857758 556.928743,238.208011 556.34156,240.520012 C556.153129,241.261951 555.770899,241.940481 555.234009,242.486126 Z"/>
+    <filter id="botw-2-i" width="118%" height="118.3%" x="-9%" y="-5.8%" filterUnits="objectBoundingBox">
+      <feOffset dy="13" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="9.5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0"/>
+    </filter>
+    <linearGradient id="botw-2-l" x1="100%" x2="50%" y1="0%" y2="5.905%">
+      <stop offset="0%" stop-opacity=".3"/>
+      <stop offset="100%" stop-opacity="0"/>
+    </linearGradient>
+    <polygon id="botw-2-k" points="143.41 736.002 750.015 835.92 929.682 725.124"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd" transform="translate(57 23)">
+    <g transform="rotate(-9.2 420 484.5)">
+      <use fill="#000" filter="url(#botw-2-a)" xlink:href="#botw-2-b"/>
+      <use fill="url(#botw-2-c)" xlink:href="#botw-2-b"/>
+      <use fill="url(#botw-2-d)" xlink:href="#botw-2-b"/>
+      <use fill="#000" filter="url(#botw-2-e)" xlink:href="#botw-2-b"/>
+      <rect width="732.606" height="887.103" x="53.697" y="40.949" stroke="#F3F3F3" stroke-width="22" rx="22.663"/>
+    </g>
+    <use fill="#E54F37" xlink:href="#botw-2-f"/>
+    <use fill="#E0E0E0" xlink:href="#botw-2-f" style="mix-blend-mode:multiply"/>
+    <use fill="#E54F37" xlink:href="#botw-2-g"/>
+    <use fill="url(#botw-2-h)" xlink:href="#botw-2-g"/>
+    <use fill="#000" filter="url(#botw-2-i)" xlink:href="#botw-2-j"/>
+    <use fill="#E54F37" xlink:href="#botw-2-j"/>
+    <use fill="#F3F3F3" xlink:href="#botw-2-k"/>
+    <use fill="url(#botw-2-l)" xlink:href="#botw-2-k"/>
+    <polygon fill="#F3F3F3" points="627.533 67.582 829.853 115.571 929.622 725.137 750.289 835.332"/>
+  </g>
+</svg>

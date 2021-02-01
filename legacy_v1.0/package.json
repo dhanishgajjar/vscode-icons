@@ -1,0 +1,26 @@
+{
+  "name": "vscode-icons",
+  "version": "1.5.0",
+  "description": "Visual Code App Icons",
+  "main": "gulpfile.js",
+  "scripts": {
+    "start": "node make.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dhanishgajjar/vscode-icons.git"
+  },
+  "author": "Dhanish Gajjar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dhanishgajjar/vscode-icons/issues"
+  },
+  "homepage": "https://github.com/dhanishgajjar/vscode-icons#readme",
+  "dependencies": {
+    "glob-fs": "^0.1.7",
+    "npm-check-updates": "^3.1.20",
+    "read-promise": "^1.0.2",
+    "svg-to-png": "^4.0.0",
+    "to-ico": "^1.1.5"
+  }
+}

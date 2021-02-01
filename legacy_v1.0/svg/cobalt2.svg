@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1024px" height="1024px" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>cobalt2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="0%" x2="100%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" stop-opacity="0.18" offset="0%"></stop>
+            <stop stop-color="#808080" stop-opacity="0.08" offset="48.7623565%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.182801178" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-2" x="67.7532909" y="54.6676562" width="744.819963" height="906.132911" rx="23.7320524"></rect>
+        <filter x="-2.4%" y="-1.3%" width="104.0%" height="103.3%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="-3" dy="3" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.3 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M464.143683,237.212598 L529.469438,657.991011 L529.469438,657.991011 C529.835029,660.345865 532.040385,661.958481 534.395238,661.592891 C534.994329,661.499882 535.567095,661.28167 536.076204,660.952477 L627.656325,601.736306 L627.656325,601.736306 C629.089925,600.809333 629.842203,599.124289 629.57523,597.438106 L576.499219,262.213199 L576.499219,262.213199 C576.229426,260.509203 574.970566,259.129695 573.298305,258.705512 L469.46844,232.368177 L469.46844,232.368177 C467.158531,231.782249 464.810991,233.179812 464.225062,235.489721 C464.082262,236.052684 464.054583,236.638681 464.143683,237.212598 Z" id="path-4"></path>
+        <linearGradient x1="5.23386356%" y1="3.68263437%" x2="50%" y2="50%" id="linearGradient-5">
+            <stop stop-color="#000000" stop-opacity="0.09" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <path d="M626.709975,601.923836 L530.176172,664.499335 L530.176172,664.499335 C528.67892,665.469889 526.738724,665.418771 525.294656,664.370723 L156.202066,396.497633 L156.202066,396.497633 C154.273411,395.097889 153.844643,392.399689 155.244386,390.471034 C155.609311,389.968217 156.078515,389.550136 156.619916,389.245375 L189.967398,370.473729 L189.967398,370.473729 C191.235432,369.759939 192.777822,369.733341 194.069712,370.402985 L626.348623,594.472223 L626.348623,594.472223 C628.464349,595.568897 629.290454,598.173063 628.19378,600.288789 C627.849351,600.953267 627.338009,601.51673 626.709975,601.923836 Z" id="path-6"></path>
+        <path d="M574.507035,266.608828 L233.000275,613.375071 L233.000275,613.375071 C232.059907,614.329922 230.729251,614.793629 229.399116,614.630003 L190.592746,609.856264 L190.592746,609.856264 C188.227511,609.565306 186.545977,607.412036 186.836935,605.046801 C186.929038,604.298081 187.215821,603.58659 187.668682,602.983282 L464.154766,234.645138 L464.154766,234.645138 C465.199912,233.252781 466.979418,232.624915 468.666913,233.053109 L572.49396,259.398749 L572.49396,259.398749 C574.803822,259.984866 576.201193,262.33252 575.615076,264.642382 C575.42675,265.384567 575.044318,266.063271 574.507035,266.608828 Z" id="path-7"></path>
+        <filter x="-9.4%" y="-6.2%" width="118.8%" height="119.1%" filterUnits="objectBoundingBox" id="filter-8">
+            <feOffset dx="0" dy="13" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="10" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="100%" y1="0%" x2="50%" y2="5.90452261%" id="linearGradient-9">
+            <stop stop-color="#000000" stop-opacity="0.3" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <polygon id="path-10" points="163.055585 759.421134 769.606957 859.241551 949.257246 748.553775"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="cobalt2">
+            <g id="icon" transform="translate(38.000000, -2.000000)">
+                <g id="Rectangle" transform="translate(440.163272, 507.734112) rotate(-9.200000) translate(-440.163272, -507.734112) ">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                    <use fill="#102F42" fill-rule="evenodd" xlink:href="#path-2"></use>
+                    <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+                </g>
+                <g id="Path-2">
+                    <use fill="#FFC600" xlink:href="#path-4"></use>
+                    <use fill="#E0E0E0" style="mix-blend-mode: multiply;" xlink:href="#path-4"></use>
+                </g>
+                <g id="Path-4">
+                    <use fill="#FFC600" xlink:href="#path-6"></use>
+                    <use fill="url(#linearGradient-5)" xlink:href="#path-6"></use>
+                </g>
+                <g id="Path-3">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-8)" xlink:href="#path-7"></use>
+                    <use fill="#FFC600" fill-rule="evenodd" xlink:href="#path-7"></use>
+                </g>
+                <g id="Path-6">
+                    <use fill="#FFC600" xlink:href="#path-10"></use>
+                    <use fill="url(#linearGradient-9)" xlink:href="#path-10"></use>
+                </g>
+                <polygon id="Path-5" fill="#FFC600" points="646.648836 91.6074145 848.950692 139.549784 948.710933 748.518353 769.394019 858.605269"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
