@@ -1,5 +1,5 @@
 <img src="images/hero.png" />
-===
+
 A fun little project for custom [Microsoft® Visual Studio Code](http://code.visualstudio.com) Icons. All rights reserved with [@Microsoft](https://github.com/Microsoft) and the respective creators of the themes.
 
 #### Default macOS BigSur
