@@ -22,14 +22,9 @@ Hovering on them will reveal the names, and clicking them will take you to the t
 
 **Mac OS:**
 
-Easiest way to change the icons is by using https://freemacsoft.net/liteicon/. Just Drag and Drop the custom icon and hit `Apply Changes`.
-
 Copy the `.icns` file you'd like to use. Find VS Code in your Applications folder, right click the icon and select `Get Info`. Click the icon in the top right corner so that a blue highlight appears around it. `⌘ + V` to paste the new icon in. It may take a few restarts of VS Code for the icon to take.
 
 If for some reason that doesn't work, then dragging the `.icns` to the icon (in the top left) of the info pane, until you see the green plus sign and then dropping it works.
-
-*Important Notes*
-Once you have added the desired image, you may *delete* the source image after the icon has changes as OS X - Mojave are able to save this information without using the image path.
 
 
 **Windows:**
