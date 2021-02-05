@@ -6,6 +6,10 @@ A fun little project for custom [Microsoft® Visual Studio Code](http://code.vis
 
 <a href="http://code.visualstudio.com"><img src="png/default.png" alt="VSCode" title="VSCode BigSur" width="256"/></a>
 
+#### Vintage Apple Macintosh 1984
+
+<img src="png/mac.png" alt="Apple Mac 1984" title="Apple Mac 1984" width="256"/></a><img src="png/mac-pro.png" alt="Apple Mac 1984" title="Apple Mac 1984" width="256"/></a><img src="png/mac-pro-max.png" alt="Apple Mac 1984" title="Apple Mac 1984" width="256"/></a>
+
 #### Based on the Popular Themes
 
 Hovering on them will reveal the names, and clicking them will take you to the theme pages.
