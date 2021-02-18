@@ -4,7 +4,7 @@ A fun little project for custom [Microsoft® Visual Studio Code](http://code.vis
 
 #### Default macOS BigSur
 
-<a href="http://code.visualstudio.com"><img src="png/default.png" alt="VSCode" title="VSCode BigSur" width="256"/></a>
+<a href="http://code.visualstudio.com"><img src="png/default.png" alt="VSCode" title="VSCode BigSur" width="256"/></a><a href="http://code.visualstudio.com"><img src="png/default_dark.png" alt="VSCode" title="VSCode BigSur" width="256"/></a>
 
 #### Vintage Apple Macintosh 1984
 
@@ -29,7 +29,6 @@ Hovering on them will reveal the names, and clicking them will take you to the t
 Copy the `.icns` file you'd like to use. Find VS Code in your Applications folder, right click the icon and select `Get Info`. Click the icon in the top right corner so that a blue highlight appears around it. `⌘ + V` to paste the new icon in. It may take a few restarts of VS Code for the icon to take.
 
 If for some reason that doesn't work, then dragging the `.icns` to the icon (in the top left) of the info pane, until you see the green plus sign and then dropping it works.
-
 
 **Windows:**
 
