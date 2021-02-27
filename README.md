@@ -23,46 +23,10 @@ Hovering on them will reveal the names, and clicking them will take you to the t
 #### Based on Material Theme
 These icons were contributed by [@haideralipunjabi](https://github.com/haideralipunjabi)
 ##### Light
-<img src="png/material_red_light.png" title="Material Red Light" width="128"/>
-<img src="png/material_pink_light.png" title="Material Pink Light" width="128"/>
-<img src="png/material_purple_light.png" title="Material Purple Light" width="128"/>
-<img src="png/material_deep_purple_light.png" title="Material Deep Purple Light" width="128"/>
-<img src="png/material_indigo_light.png" title="Material Indigo Light" width="128"/>
-<img src="png/material_blue_light.png" title="Material Blue Light" width="128"/>
-<img src="png/material_light_blue_light.png" title="Material Light Blue Light" width="128"/>
-<img src="png/material_cyan_light.png" title="Material Cyan Light" width="128"/>
-<img src="png/material_teal_light.png" title="Material Teal Light" width="128"/>
-<img src="png/material_green_light.png" title="Material Green Light" width="128"/>
-<img src="png/material_light_green_light.png" title="Material Light Green Light" width="128"/>
-<img src="png/material_lime_light.png" title="Material Lime Light" width="128"/>
-<img src="png/material_yellow_light.png" title="Material Yellow Light" width="128"/>
-<img src="png/material_amber_light.png" title="Material Amber Light" width="128"/>
-<img src="png/material_orange_light.png" title="Material Orange Light" width="128"/>
-<img src="png/material_deep_orange_light.png" title="Material Deep Orange Light" width="128"/>
-<img src="png/material_brown_light.png" title="Material Brown Light" width="128"/>
-<img src="png/material_grey_light.png" title="Material Grey Light" width="128"/>
-<img src="png/material_blue_grey_light.png" title="Material Blue Grey Light" width="128"/>
+<img src="png/material_red_light.png" title="Material Red Light" width="128"/><img src="png/material_pink_light.png" title="Material Pink Light" width="128"/><img src="png/material_purple_light.png" title="Material Purple Light" width="128"/><img src="png/material_deep_purple_light.png" title="Material Deep Purple Light" width="128"/><img src="png/material_indigo_light.png" title="Material Indigo Light" width="128"/><img src="png/material_blue_light.png" title="Material Blue Light" width="128"/><img src="png/material_light_blue_light.png" title="Material Light Blue Light" width="128"/><img src="png/material_cyan_light.png" title="Material Cyan Light" width="128"/><img src="png/material_teal_light.png" title="Material Teal Light" width="128"/><img src="png/material_green_light.png" title="Material Green Light" width="128"/><img src="png/material_light_green_light.png" title="Material Light Green Light" width="128"/><img src="png/material_lime_light.png" title="Material Lime Light" width="128"/><img src="png/material_yellow_light.png" title="Material Yellow Light" width="128"/><img src="png/material_amber_light.png" title="Material Amber Light" width="128"/><img src="png/material_orange_light.png" title="Material Orange Light" width="128"/><img src="png/material_deep_orange_light.png" title="Material Deep Orange Light" width="128"/><img src="png/material_brown_light.png" title="Material Brown Light" width="128"/><img src="png/material_grey_light.png" title="Material Grey Light" width="128"/><img src="png/material_blue_grey_light.png" title="Material Blue Grey Light" width="128"/>
 
 ##### Dark
-<img src="png/material_red_dark.png" title="Material Red Dark" width="128"/>
-<img src="png/material_pink_dark.png" title="Material Pink Dark" width="128"/>
-<img src="png/material_purple_dark.png" title="Material Purple Dark" width="128"/>
-<img src="png/material_deep_purple_dark.png" title="Material Deep Purple Dark" width="128"/>
-<img src="png/material_indigo_dark.png" title="Material Indigo Dark" width="128"/>
-<img src="png/material_blue_dark.png" title="Material Blue Dark" width="128"/>
-<img src="png/material_light_blue_dark.png" title="Material Light Blue Dark" width="128"/>
-<img src="png/material_cyan_dark.png" title="Material Cyan Dark" width="128"/>
-<img src="png/material_teal_dark.png" title="Material Teal Dark" width="128"/>
-<img src="png/material_green_dark.png" title="Material Green Dark" width="128"/>
-<img src="png/material_light_green_dark.png" title="Material Light Green Dark" width="128"/>
-<img src="png/material_lime_dark.png" title="Material Lime Dark" width="128"/>
-<img src="png/material_yellow_dark.png" title="Material Yellow Dark" width="128"/>
-<img src="png/material_amber_dark.png" title="Material Amber Dark" width="128"/>
-<img src="png/material_orange_dark.png" title="Material Orange Dark" width="128"/>
-<img src="png/material_deep_orange_dark.png" title="Material Deep Orange Dark" width="128"/>
-<img src="png/material_brown_dark.png" title="Material Brown Dark" width="128"/>
-<img src="png/material_grey_dark.png" title="Material Grey Dark" width="128"/>
-<img src="png/material_blue_grey_dark.png" title="Material Blue Grey Dark" width="128"/>
+<img src="png/material_red_dark.png" title="Material Red Dark" width="128"/><img src="png/material_pink_dark.png" title="Material Pink Dark" width="128"/><img src="png/material_purple_dark.png" title="Material Purple Dark" width="128"/><img src="png/material_deep_purple_dark.png" title="Material Deep Purple Dark" width="128"/><img src="png/material_indigo_dark.png" title="Material Indigo Dark" width="128"/><img src="png/material_blue_dark.png" title="Material Blue Dark" width="128"/><img src="png/material_light_blue_dark.png" title="Material Light Blue Dark" width="128"/><img src="png/material_cyan_dark.png" title="Material Cyan Dark" width="128"/><img src="png/material_teal_dark.png" title="Material Teal Dark" width="128"/><img src="png/material_green_dark.png" title="Material Green Dark" width="128"/><img src="png/material_light_green_dark.png" title="Material Light Green Dark" width="128"/><img src="png/material_lime_dark.png" title="Material Lime Dark" width="128"/><img src="png/material_yellow_dark.png" title="Material Yellow Dark" width="128"/><img src="png/material_amber_dark.png" title="Material Amber Dark" width="128"/><img src="png/material_orange_dark.png" title="Material Orange Dark" width="128"/><img src="png/material_deep_orange_dark.png" title="Material Deep Orange Dark" width="128"/><img src="png/material_brown_dark.png" title="Material Brown Dark" width="128"/><img src="png/material_grey_dark.png" title="Material Grey Dark" width="128"/><img src="png/material_blue_grey_dark.png" title="Material Blue Grey Dark" width="128"/>
 
 ---
 
