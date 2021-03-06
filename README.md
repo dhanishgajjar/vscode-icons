@@ -1,6 +1,6 @@
 <img src="images/hero.png" />
 
-A fun little project for custom [Microsoft® Visual Studio Code](http://code.visualstudio.com) Icons. All rights reserved with [@Microsoft](https://github.com/Microsoft) and the respective creators of the themes.
+A fun little project for custom [Microsoft® Visual Studio Code](http://code.visualstudio.com) Icons. All rights reserved with [@Microsoft](https://github.com/Microsoft) and the respective creators of the themes. Also checkout the [Terminal Icons Project](https://github.com/dhanishgajjar/terminal-icons).
 
 #### Default macOS BigSur
 
