@@ -28,9 +28,14 @@ Hovering on them will reveal the names, and clicking them will take you to the t
 
 **Mac OS:**
 
-Copy the `.icns` file you'd like to use. Find VS Code in your Applications folder, right click the icon and select `Get Info`. Click the icon in the top right corner so that a blue highlight appears around it. `⌘ + V` to paste the new icon in. It may take a few restarts of VS Code for the icon to take.
+From the Applications folder, right click on the Visual Studio App and select `Get Info`
 
-If for some reason that doesn't work, then dragging the `.icns` to the icon (in the top left) of the info pane, until you see the green plus sign and then dropping it works.
+<img src="images/get-info.png" width="600"/>
+
+
+Once the Info panel is open, simply drag and drop the .icns file you want on the top left corner.
+
+<img src="images/drag-drop.png" width="600" />
 
 **Windows:**
 
