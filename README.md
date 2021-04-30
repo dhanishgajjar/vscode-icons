@@ -41,6 +41,13 @@ Once the Info panel is open, simply drag and drop the .icns file you want on the
 
 Right click on the shortcut App Icon, select properties and then shortcut tab and then `change icon` button.
 
+In case App Icon is pinned to your Taskbar, it requires some additional steps.
+You need to have VS Code closed for this to work.
+Hold Shift and right click on pinned icon.
+Then, proceed the same as above (properties / change icon).
+Changes will be visible on next login, or alternatively you can restart explorer.exe process.
+
+
 **Linux:**
 
 Just change the icon path in the file at `/var/lib/snapd/desktop/applications/code_code.desktop`.
