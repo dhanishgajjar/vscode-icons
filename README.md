@@ -22,6 +22,8 @@ Hovering on them will reveal the names, and clicking them will take you to the t
 
 <img src="png/sublime.png" title="Sublime Text" width="128"/>
 
+My favorite icon color is:___________
+
 ---
 
 ## How to Install
